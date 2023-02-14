@@ -34,4 +34,4 @@ I'm mainly interested in the research of Natural Lang
 
 ## Contact me!
 
-You can reach me at `1874240442 [at] qq [dot] com`, this email will be active all the time.
+You can reach me at `zhao_jiachen24 [at] outlook [dot] com`, this email will be active all the time.
