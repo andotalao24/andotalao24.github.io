@@ -6,7 +6,7 @@ author_profile: true
 ---
  
 **Few-shot parsing for biomedical texts** Sep 2022 – Feb 2023  
-*supervised by Prof. [(Andrew McCallum)](https://people.cs.umass.edu/~mccallum/)*  
+*supervised by Prof. [Andrew McCallum](https://people.cs.umass.edu/~mccallum/)*  
 
 -Focus on few-shot constituency parsing. Work on knowledge distillation from GPT-3 to a smaller applicable language
 model (i.e., T5).  
