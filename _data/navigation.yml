@@ -15,14 +15,11 @@ main:
   - title: "Main Page"
     url: /about/
 
-  - title: "Publications"
-    url: /publications/
-
   - title: "Research Projects"
     url: /projects/
 
   - title: "Courses"
-    url: /files/UM_SSR_UNOF.pdf
+    url: /files/UM_SSR_UNOFF.pdf
 
   - title: "CV"
     url: /files/resume_23_2.pdf
