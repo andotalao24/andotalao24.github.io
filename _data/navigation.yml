@@ -15,9 +15,6 @@ main:
   - title: "Main Page"
     url: /about/
 
-  - title: "Research Projects"
-    url: /research/
-
   - title: "Publications"
     url: /publications/
 
