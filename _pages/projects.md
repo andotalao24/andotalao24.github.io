@@ -32,7 +32,7 @@ in the case of limited or corrupted data.
 
 
 **Event detection without triggers** September 2021 – January 2022
-*supervised by Prof. [Haiqin Yang]()*
+*supervised by Prof. [Haiqin Yang](https://hqyang.github.io/)*
 - Worked on low-resource events detection that does not require the annotation of trigger words. Proposed to convert the
 classification task into a reading comprehension (RC) task.  
 - Proposed an events derangement module to resolve the imbalanced learning process. The performance on detecting minority events can be strengthened. Two patents are under registration.  
@@ -43,7 +43,7 @@ classification task into a reading comprehension (RC) task.
 **Deep learning in time series forecasting for epidemics** Dec 2021 – May 2022  
 *Final year project, supervised by Prof. [Dit-Yan YEUNG](https://sites.google.com/view/dyyeung)*  
 
--Worked on zero-shot and few-shot time series prediction to forecast the spread of a local pandemic at its early stage.
+- Worked on zero-shot and few-shot time series prediction to forecast the spread of a local pandemic at its early stage.
 Designed and built a meta-learning framework for time-series to leverage history data across regions to tackle the scarcity
 of data. 
 
@@ -51,9 +51,9 @@ of data.
 **Implicit discourse relation classification** February 2021 – May 2021  
 *Supervised by Prof. [Yangqiu Song](https://www.cse.ust.hk/~yqsong/)*  
 
--Applied BERT to the classification of implicit discourse relations. Proposed to focus on the long-tail recognition to
+- Applied BERT to the classification of implicit discourse relations. Proposed to focus on the long-tail recognition to
 improve the classification performance.  
--Experimented with various methods including data augmentation, loss function modification (e.g., Focal Loss), transfer
+- Experimented with various methods including data augmentation, loss function modification (e.g., Focal Loss), transfer
 learning and multi-task learning to improve the performance on minority class. The F1 score of the base model can be at
 best increased by 2.1%.  
 
@@ -61,6 +61,6 @@ best increased by 2.1%.
 **Video analysis for the management of crowds** April 2020 – August 2020  
 *Supervised by Prof. [Shueng-Han Gary Chan](https://www.cse.ust.hk/~gchan/)*  
 
--Applied YOLO and deepSORT to realize real-time indoor crowds detection and tracking on a single camera. Developed
+- Applied YOLO and deepSORT to realize real-time indoor crowds detection and tracking on a single camera. Developed
 algorithms to analyze indoor crowds’ staying time and monitor social distancing.  
--Further developed a naive framework on multi-camera multi-target tracking, which was an open research topic by then.  
+- Further developed a naive framework on multi-camera multi-target tracking, which was an open research topic by then.  
