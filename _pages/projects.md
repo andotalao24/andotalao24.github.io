@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-##Featured
+## Featured
 **Few-shot parsing for biomedical texts** Sep 2022 – Current
 *supervised by Prof. [Andrew McCallum](https://people.cs.umass.edu/~mccallum/)*  
 
@@ -30,6 +30,7 @@ prior anatomical knowledge into CNN-based segmentation. It can improve the robus
 in the case of limited or corrupted data.  
 - The proposal can increase the Dice coefficient of various mainstream CNN frameworks by around 1.7% on blind tests. The tested models can achieve a much better performance when only half of the training data are given.   
 
+
 **Event detection without triggers** September 2021 – January 2022
 *supervised by Prof. [Haiqin Yang]()*
 - Worked on low-resource events detection that does not require the annotation of trigger words. Proposed to convert the
@@ -38,7 +39,7 @@ classification task into a reading comprehension (RC) task.
 - Trained the proposed model with real large-scale data collected by Datastory and applied the model to the company’s product for efficient events detection on large-scale real data from social medias. The cost of data annotation was greatly reduced.
 
 
-##Others
+## Others  
 **Deep learning in time series forecasting for epidemics** Dec 2021 – May 2022  
 *Final year project, supervised by Prof. [Dit-Yan YEUNG](https://sites.google.com/view/dyyeung)*  
 
