@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Featured
-**Few-shot parsing for biomedical texts** Sep 2022 – Current
+**Few-shot parsing for biomedical texts** Sep 2022 – Current  
 *supervised by Prof. [Andrew McCallum](https://people.cs.umass.edu/~mccallum/)*  
 
 - Focus on few-shot constituency parsing. Work on knowledge distillation from GPT-3 to a smaller applicable language
@@ -31,7 +31,7 @@ in the case of limited or corrupted data.
 - The proposal can increase the Dice coefficient of various mainstream CNN frameworks by around 1.7% on blind tests. The tested models can achieve a much better performance when only half of the training data are given.   
 
 
-**Event detection without triggers** September 2021 – January 2022
+**Event detection without triggers** September 2021 – January 2022  
 *supervised by Prof. [Haiqin Yang](https://hqyang.github.io/)*
 - Worked on low-resource events detection that does not require the annotation of trigger words. Proposed to convert the
 classification task into a reading comprehension (RC) task.  
