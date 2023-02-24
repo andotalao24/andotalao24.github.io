@@ -14,6 +14,8 @@ I am a first-year Master student in Computer Science at UMass Amherst where I am
 
 I am especially interested in label-efficient learning / weakly-supervised learning and improving the robustness and interpretability of neural networks. I am particularly enthusiastic about applying the implication to biology and medicine where labeled data are expensive and scarce.   In the past, I worked on various tasks with diverse kinds of data involving Natural Language Processing, Medical Image Analysis, etc. I currently focus on efficient methods for NLP in a low-resource scenario and am actively exploring in-context learning. I am also broadly interested in imbalanced learning, meta learning,  multimodality and neural science.  
 
+Apart from research, I am also interested in entreprenuership, especially on the application of AI. I took a minor in entreprenuership at HKUST and one of my favourite courses at HKUST is IT entreprenuership taught by [Prof. Gary Chan](https://www.cse.ust.hk/~gchan/). My internship at the CTO lab of [IDEA](https://www.idea.edu.cn/en) was also about collaborating with a unicorn startup. The entrepreneurial mindest really guides my research interests and even shapes my values. 
+
 In my spare time, I love photography and architecture. Check my instagram ([*zzzh_nick*](https://instagram.com/zzzh_nick?igshid=YmMyMTA2M2Y=)). 
 
 ## Publications
