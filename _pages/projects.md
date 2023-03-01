@@ -7,7 +7,7 @@ author_profile: true
 
 ## Featured
 **Few-shot parsing for biomedical texts** Sep 2022 – Current  
-*supervised by Prof. [Andrew McCallum](https://people.cs.umass.edu/~mccallum/)*  
+*supervised by Prof. [Andrew McCallum](https://scholar.google.com/citations?user=yILa1y0AAAAJ)*  
 
 - Focus on few-shot constituency parsing. Work on knowledge distillation from GPT-3 to a smaller applicable language
 model (i.e., T5).  
@@ -20,7 +20,7 @@ more data.
 
 
 **Patella segmentation for the early detection of osteoarthritis** June 2021 – October 2021  
-*Supervised by Prof. [Hao Chen](https://cse.hkust.edu.hk/~jhc/)*  
+*Supervised by Prof. [Hao Chen](https://scholar.google.com/citations?user=Z_t5DjwAAAAJ&hl=en&oi=ao)*  
 
 - Worked on increasing the robustness and data-efficiency of Convolutional Neural Networks (CNN) by
 leveraging Statistical Shape Model (SSM) for Patella segmentation.  
