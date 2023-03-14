@@ -12,7 +12,9 @@ redirect_from:
 
 I am a first-year Master student in Computer Science at UMass Amherst where I am lucky to do research at [IESL lab](http://www.iesl.cs.umass.edu/). I finished my undergraduate study in Computer Science at HKUST in 2022. In the past, I was a research assitant at [SMART lab](https://hkustsmartlab.netlify.app/) and an NLP research intern at [IDEA](https://www.idea.edu.cn/en/about-team.html).  
 
-I am especially interested in label-efficient learning / weakly-supervised learning and improving the robustness and interpretability of neural networks. I am particularly enthusiastic about applying the implication to biology and medicine where labeled data are scarce and trustworthiness is valued. Correspondingly, I have worked on various tasks with diverse kinds of data involving texts, images and videos. Currently, I focus on efficient methods for NLP in a low-resource scenario and am actively exploring large language models. I am also broadly interested in imbalanced learning, meta learning,  multimodality and neural science.  
+I am especially interested in label-efficient learning / weakly-supervised learning and improving the robustness and interpretability of neural networks. I am particularly enthusiastic about applying the implication to biology and medicine where labeled data are scarce and trustworthiness is valued. Correspondingly, I have worked on various tasks with diverse kinds of data involving texts, images and videos. Currently, I focus on efficient methods for NLP in a low-resource scenario and am actively exploring large language models. I am also broadly interested in explainability,  multimodality and neural science.  
+
+UPDATE: Seeing the success of GPT4, I am rethinking my future research recently. 
 
 Apart from research, I am also interested in entreprenuership which helps me consider my future research area. I took a minor in entreprenuership at HKUST and one of my favourite courses at HKUST is IT entreprenuership taught by [Prof. Gary Chan](https://www.cse.ust.hk/~gchan/). My internship at the CTO lab of [IDEA](https://www.idea.edu.cn/en) was also about collaborating with a unicorn startup.
 
