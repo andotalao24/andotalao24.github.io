@@ -24,7 +24,7 @@ In my spare time, I love photography and architecture. Check my instagram ([*zzz
 Jiachen ZHAO*, Andrew Drozdov*, Wenlong Zhao, Benjamin Rozonoyer, Yamini Kashyap, Mehek Tulsyan, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum\
 In preparation 
 
--**Context as Clues to Retrieving from Large Associative Memory**\
+- **Context as Clues to Retrieving from Large Associative Memory**\
 Jiachen Zhao\
 Neural Conversational AI Workshop, TEACH @ ICML-23
 
