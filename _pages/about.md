@@ -22,11 +22,11 @@ In my spare time, I love photography and architecture. Check my instagram ([*zzz
 ## Publications
 - **Mist-KD: Multi-stage Knowledge Distillation for Parsing**\
 Jiachen Zhao*, Andrew Drozdov*, Wenlong Zhao, Benjamin Rozonoyer, Yamini Kashyap, Mehek Tulsyan, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum\
-In preparation 
+In preparation.
 
 - **Context as Clues to Retrieving from Large Associative Memory**\
 Jiachen Zhao\
-Neural Conversational AI Workshop, TEACH @ ICML-23
+Neural Conversational AI Workshop, TEACH @ ICML-23.
 
 - **Adaptive Fusion of Deep Learning with Statistical Shape Model for Robust Patella Segmentation from CT Images**\
 Jiachen Zhao, Tianshu Jiang, Yi Lin, Justin Chan, Ping-Keung Lewis Chan, Chunyi Wen, Hao Chen\
