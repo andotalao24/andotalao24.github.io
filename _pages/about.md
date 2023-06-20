@@ -28,9 +28,9 @@ In preparation.
 Jiachen Zhao\
 Neural Conversational AI Workshop, TEACH @ ICML-23.
 
-- **Adaptive Fusion of Deep Learning with Statistical Shape Model for Robust Patella Segmentation from CT Images**\
+- **Adaptive Fusion of Deep Learning with Statistical Anatomical Knowledge for Robust Patella Segmentation from CT Images**\
 Jiachen Zhao, Tianshu Jiang, Yi Lin, Justin Chan, Ping-Keung Lewis Chan, Chunyi Wen, Hao Chen\
-submitted to Journal *Artificial Intelligence in Medicine* (IF= 7.011), received positive reviews, 2022. [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4026021)
+submitted to IEEE Journal of Biomedical and Health Informatics.
 
 - **Trigger-free Event Detection via Derangement Reading Comprehension**\
 Jiachen Zhao, Haiqin Yang\
