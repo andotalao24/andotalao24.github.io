@@ -22,7 +22,7 @@ In my spare time, I love photography and architecture. Check my instagram ([*zzz
 ## Publications
 - **Mist-KD: Multi-stage Knowledge Distillation for Parsing**\
 Jiachen Zhao\*, Andrew Drozdov\*, Wenlong Zhao, Benjamin Rozonoyer, Yamini Kashyap, Mehek Tulsyan, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum\
-In preparation.
+In submission to EMNLP23.
 
 - **Context as Clues to Retrieving from Large Associative Memory**\
 Jiachen Zhao\
