@@ -9,6 +9,7 @@ redirect_from:
 - /about.html
 
 ---
+I am looking for PhD positions for 24 fall.  
 
 I am a first-year Master student in Computer Science at UMass Amherst where I am lucky to do research at [IESL lab](http://www.iesl.cs.umass.edu/). I finished my undergraduate study in Computer Science at HKUST in 2022. In the past, I was a research assitant at [SMART lab](https://hkustsmartlab.netlify.app/) and an NLP research intern at [IDEA](https://www.idea.edu.cn/en/about-team.html).  
 
@@ -19,14 +20,17 @@ Apart from research, I am also interested in entreprenuership which helps me con
 
 In my spare time, I love photography and architecture. Check my instagram ([*zzzh_nick*](https://instagram.com/zzzh_nick?igshid=YmMyMTA2M2Y=)). I learnt sketching and painting for over five years in the past.
 
-## Publications
+## Publications  
 - **Mist-KD: Multi-stage Knowledge Distillation for Parsing**\
 Jiachen Zhao\*, Andrew Drozdov\*, Wenlong Zhao, Benjamin Rozonoyer, Yamini Kashyap, Mehek Tulsyan, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum\
 In submission.
 
-- **Context as Clues to Retrieving from Large Associative Memory**\
+- **Student as an Inherent Denoiser of Noisy Teacher**\
+In submission.
+
+- **In-Context Exemplars as Clues to Retrieving from Large Associative Memory**\
 Jiachen Zhao\
-Neural Conversational AI Workshop, TEACH @ ICML-23.
+Neural Conversational AI Workshop, TEACH @ ICML-23. 
 
 - **Adaptive Fusion of Deep Learning with Statistical Anatomical Knowledge for Robust Patella Segmentation from CT Images**\
 Jiachen Zhao, Tianshu Jiang, Yi Lin, Justin Chan, Ping-Keung Lewis Chan, Chunyi Wen, Hao Chen\
