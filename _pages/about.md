@@ -18,8 +18,7 @@ I am especially interested in label-efficient learning / weakly-supervised learn
 
 Apart from research, I am also interested in entreprenuership which helps me consider my future research area. I took a minor in entreprenuership at HKUST. My internship at the CTO lab of [IDEA](https://www.idea.edu.cn/en) was also about collaborating with a unicorn startup.
 
-In my spare time, I love photography and architecture. Check my instagram ([*zzzh_nick*](https://instagram.com/zzzh_nick?igshid=YmMyMTA2M2Y=)). I learnt sketching and painting for over five years in the past.
-
+In my spare time, I love photography and architecture. Check my instagram ([*zzzh_nick*](https://instagram.com/zzzh_nick?igshid=YmMyMTA2M2Y=)).  
 ## Publications  
 ### 2023  
 - **Mist-KD: Multi-stage Knowledge Distillation for Parsing**\
