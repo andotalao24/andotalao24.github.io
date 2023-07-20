@@ -32,14 +32,14 @@ In submission.
 - **In-Context Exemplars as Clues to Retrieving from Large Associative Memory**\
 Jiachen Zhao\
 Neural Conversational AI Workshop, TEACH @ ICML-23.  
-[TL;DR] *We reintepret In-Context Learning (ICL) of LLMs as contextual retrieval from associative memory motivated by the fact that no gradients update occurs in ICL.
-We also discuss the implication of our reintepretation to exemplar selection and chain-of-thought.*
+[TL;DR] *We reintepret In-Context Learning (ICL) of LLMs as contextual retrieval from associative memory motivated by the fact that no gradients update occurs in ICL and
+analyze error bounds of retrieval errors. We also discuss the implication of our reintepretation to exemplar selection and chain-of-thought.*
 
 ### 2022  
 - **Adaptive Fusion of Deep Learning with Statistical Anatomical Knowledge for Robust Patella Segmentation from CT Images**\
 Jiachen Zhao, Tianshu Jiang, Yi Lin, Justin Chan, Ping-Keung Lewis Chan, Chunyi Wen, Hao Chen\
 submitted to IEEE Journal of Biomedical and Health Informatics.  
-[TL;DR] *Neural networks (NNs) for image segmentation are vulnerable to corrupted images and require sufficient labeled training data. To handle such issues, we propose to combine neural networks with statistical shape models (SSMs) and our method can automatically determine the contribution of NNs and SSMs during combination by predicting which may perform better.*
+[TL;DR] *Neural networks (NNs) for image segmentation are vulnerable to corrupted images and require sufficient labeled training data. To handle such issues, we propose to combine neural networks with statistical shape models (SSMs) and our method can automatically determine the contribution of NNs and SSMs during combination by predicting which may perform better based on statistical priors and fuzzy nearest neighbors.*
 
 - **Trigger-free Event Detection via Derangement Reading Comprehension**\
 Jiachen Zhao, Haiqin Yang\
