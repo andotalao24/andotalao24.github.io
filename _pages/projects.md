@@ -11,7 +11,7 @@ author_profile: true
 
 - Working on understanding the effects of supervised finetuning on LLMs for debiasing from the view of continual learning.  
 
-**Large language models for clinical applications** Feb 2023 - Current  
+**Large Language Models for clinical applications** Feb 2023 - Current  
 *supervised by Prof. Yu Hong*  
 
 - Working on automatic Chain-of-Thought generation for clinical QA to resolve shortage of annotations. 
