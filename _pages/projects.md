@@ -5,18 +5,27 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Featured
+## Featured  
+**Improving fairness of Large Language Models**  June 2023 - Current  
+*supervised by Prof. Mengye Ren, Dr. Zhun Deng and Prof. James Zou*  
+
+- Working on understanding the effects of supervised finetuning on LLMs for debiasing from the view of continual learning.  
+
+**Large language models for clinical applications** Feb 2023 - Current  
+*supervised by Prof. Yu Hong*  
+
+- Working on automatic Chain-of-Thought generation for clinical QA to resolve shortage of annotations. 
+- Working on improving zero-shot QA performance by adding medical jargons to prompt.
+- Two papers in preparation. 
+
+
 **Few-shot parsing for biomedical texts** Sep 2022 – Current  
 *supervised by Prof. [Andrew McCallum](https://scholar.google.com/citations?user=yILa1y0AAAAJ)*  
 
-- Focus on few-shot constituency parsing. Work on knowledge distillation from GPT-3 to a smaller applicable language
+- Focus on few-shot constituency parsing. Worked on knowledge distillation from LLMs to a smaller applicable language
 model (i.e., T5).  
-- Proposed a “usefulness” score to decide what exemplars to retrieve for prompts of GPT-3, which is proven more effective
-than other methods on constituency parsing.  
-- Proposed confident student training with knowledge distillation (ConST-KD). ConST-KD can reduce overconfident
-mistakes in self-training due to noisy pseudo labels. With ConST-KD, the student model can outperform the teacher
-model and other strong baselines in few-shot settings and reach comparable results to standard fine-tuning with ten times
-more data.
+- Worked on understanding the performance difference between student and teacher in knowledge distillation. Worked on more effective KD methods to handle noise in teacher labels.
+- Two papers in submission.
 
 
 **Patella segmentation for the early detection of osteoarthritis** June 2021 – October 2021  
