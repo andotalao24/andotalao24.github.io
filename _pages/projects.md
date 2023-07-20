@@ -15,14 +15,14 @@ author_profile: true
 *supervised by Prof. Yu Hong*  
 
 - Working on automatic Chain-of-Thought generation for clinical QA to resolve shortage of annotations. 
-- Working on improving zero-shot QA performance by adding medical jargons to prompt.
+- Working on improving zero-shot QA performance by adding medical jargons to prompts.
 - Two papers in preparation. 
 
 
 **Few-shot parsing for biomedical texts** Sep 2022 – Current  
 *supervised by Prof. [Andrew McCallum](https://scholar.google.com/citations?user=yILa1y0AAAAJ)*  
 
-- Focus on few-shot constituency parsing. Worked on knowledge distillation from LLMs to a smaller applicable language
+- Focused on few-shot constituency parsing. Worked on knowledge distillation from LLMs to a smaller applicable language
 model (i.e., T5).  
 - Worked on understanding the performance difference between student and teacher in knowledge distillation. Worked on more effective KD methods to handle noise in teacher labels.
 - Two papers in submission.
