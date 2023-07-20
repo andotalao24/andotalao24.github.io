@@ -13,7 +13,7 @@ I am looking for PhD positions for 24 fall.
 
 I am a first-year Master student in Computer Science at UMass Amherst where I am lucky to do research at [IESL lab](http://www.iesl.cs.umass.edu/). I finished my undergraduate study in Computer Science at HKUST in 2022. In the past, I was a research assitant at [SMART lab](https://hkustsmartlab.netlify.app/) and an NLP research intern at [IDEA](https://www.idea.edu.cn/en/about-team.html).  
 
-I am especially interested in label-efficient learning / weakly-supervised learning and improving the robustness and interpretability of neural networks. I am particularly enthusiastic about applying the implication to biology and medicine where labeled data are scarce and trustworthiness is valued. Correspondingly, I have worked on various tasks with diverse kinds of data involving texts, images and videos. Currently, I focus on efficient methods for NLP in a low-resource scenario and am actively exploring large language models. I am also broadly interested in explainability,  multimodality and neural science.  
+**Research Interests**. I am especially interested in label-efficient learning / weakly-supervised learning and improving the robustness and interpretability of neural networks. I am particularly enthusiastic about applying the implication to biology and medicine where labeled data are scarce and trustworthiness is valued. Correspondingly, I have worked on various tasks with diverse kinds of data involving texts, images and videos. I am also broadly interested in explainability,  multimodality and neural science.  Currently, I focus on studying large language models, including understanding in-context learning ([TEACH @ ICML23](https://drive.google.com/file/d/1kGxHG6vqGZxwjtVxu-tmWmoKfPDRtIfI/view?usp=sharing)), knowledge distillation from LLMs (in submission), applying LLMs to clinical QA (in preparation) and debiasing LLMs (ongoing).
 
 
 Apart from research, I am also interested in entreprenuership which helps me consider my future research area. I took a minor in entreprenuership at HKUST. My internship at the CTO lab of [IDEA](https://www.idea.edu.cn/en) was also about collaborating with a unicorn startup.
@@ -26,20 +26,26 @@ Jiachen Zhao\*, Andrew Drozdov\*, Wenlong Zhao, Benjamin Rozonoyer, Yamini Kashy
 In submission.
 
 - **Student as an Inherent Denoiser of Noisy Teacher**\
+Jiachen Zhao\
 In submission.
 
 - **In-Context Exemplars as Clues to Retrieving from Large Associative Memory**\
 Jiachen Zhao\
-Neural Conversational AI Workshop, TEACH @ ICML-23. 
+Neural Conversational AI Workshop, TEACH @ ICML-23.  
+[TL;DR] *We reintepret In-Context Learning (ICL) of LLMs as contextual retrieval from associative memory motivated by the fact that no gradients update occurs in ICL.
+We also discuss the implication of our reintepretation to exemplar selection and chain-of-thought.*
 
 ### 2022  
 - **Adaptive Fusion of Deep Learning with Statistical Anatomical Knowledge for Robust Patella Segmentation from CT Images**\
 Jiachen Zhao, Tianshu Jiang, Yi Lin, Justin Chan, Ping-Keung Lewis Chan, Chunyi Wen, Hao Chen\
-submitted to IEEE Journal of Biomedical and Health Informatics.
+submitted to IEEE Journal of Biomedical and Health Informatics.  
+[TL;DR] *Neural networks (NNs) for image segmentation are vulnerable to corrupted images and require sufficient labeled training data. To handle such issues, we propose to combine neural networks with statistical shape models (SSMs) and our method can automatically determine the contribution of NNs and SSMs during combination by predicting which may perform better.*
 
 - **Trigger-free Event Detection via Derangement Reading Comprehension**\
 Jiachen Zhao, Haiqin Yang\
 *arXiv*, 2022. [link](https://arxiv.org/pdf/2208.09659.pdf)
+
+
 
 
 
