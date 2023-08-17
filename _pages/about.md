@@ -24,10 +24,7 @@ In my spare time, I love photography and architecture. Check my instagram ([*zzz
 - **Mist-KD: Multi-stage Knowledge Distillation for Parsing**\
 Jiachen Zhao\*, Andrew Drozdov\*, Wenlong Zhao, Benjamin Rozonoyer, Yamini Kashyap, Mehek Tulsyan, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum\
 In submission.
-- **Student as an Inherent Denoiser of Noisy Teacher**\
-Jiachen Zhao  
-In submission.
-
+  
 - **In-Context Exemplars as Clues to Retrieving from Large Associative Memory**\
 Jiachen Zhao\
 Neural Conversational AI Workshop, TEACH @ ICML-23.  
