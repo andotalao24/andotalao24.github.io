@@ -47,7 +47,7 @@ classification task into a reading comprehension (RC) task.
 - Proposed an events derangement module to resolve the imbalanced learning process. The performance on detecting minority events can be strengthened. Two patents are under registration.  
 - Trained the proposed model with real large-scale data collected by Datastory and applied the model to the company’s product for efficient events detection on large-scale real data from social medias. The cost of data annotation was greatly reduced.
 
-
+<!---
 ## Others  
 **Deep learning in time series forecasting for epidemics** Dec 2021 – May 2022  
 *Final year project, supervised by Prof. [Dit-Yan YEUNG](https://sites.google.com/view/dyyeung)*  
@@ -73,3 +73,4 @@ best increased by 2.1%.
 - Applied YOLO and deepSORT to realize real-time indoor crowds detection and tracking on a single camera. Developed
 algorithms to analyze indoor crowds’ staying time and monitor social distancing.  
 - Further developed a naive framework on multi-camera multi-target tracking, which was an open research topic by then.  
+--->
