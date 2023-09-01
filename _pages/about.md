@@ -26,7 +26,7 @@ In submission.
   
 - **In-Context Exemplars as Clues to Retrieving from Large Associative Memory**\
 Jiachen Zhao\
-Neural Conversational AI Workshop, TEACH @ ICML-23.  
+Neural Conversational AI Workshop @ ICML-23.  
 [TL;DR] *We reinterpret In-Context Learning (ICL) of LLMs as contextual retrieval from associative memory motivated by the fact that no gradients update occurs in ICL and
 analyze error bounds of retrieval errors. We relate ICL to humans' memory system and show some biological plausibility. We also discuss the implication of our theory to exemplar selection and chain-of-thought.*
 
