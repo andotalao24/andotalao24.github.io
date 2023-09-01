@@ -11,14 +11,13 @@ redirect_from:
 ---
 I am looking for PhD positions for 24 fall.  
 
-I am a first-year Master's student in Computer Science at UMass Amherst where I am lucky to do research at [IESL lab](http://www.iesl.cs.umass.edu/). I finished my undergraduate study in Computer Science at HKUST in 2022. In the past, I was a research assistant at [SMART lab](https://hkustsmartlab.netlify.app/) and an NLP research intern at [IDEA](https://www.idea.edu.cn/en/about-team.html).  
+I am a first-year Master's student in Computer Science at UMass Amherst where I am lucky to do research at [IESL lab](http://www.iesl.cs.umass.edu/). I finished my undergraduate study in Computer Science at HKUST in 2022. In the past, I was a research assistant at [SMART lab](https://hkustsmartlab.netlify.app/) working on medical image analysis and an NLP research intern at [IDEA](https://www.idea.edu.cn/en/about-team.html).  
 
-**Research Interests**. I am especially interested in label-efficient learning / weakly-supervised learning and improving the robustness and interpretability of neural networks. I am particularly enthusiastic about applying the implication to biology and medicine where labeled data are scarce and trustworthiness is valued. Correspondingly, I have worked on various tasks with diverse kinds of data involving texts, images and videos. I am also broadly interested in explainability,  multimodality and neural science.  Currently, I focus on studying large language models, including understanding in-context learning (TEACH @ ICML23), knowledge distillation from LLMs (in submission), applying LLMs to clinical QA (in preparation) and debiasing LLMs (ongoing).
+**Research Interests**. I am especially interested in label-efficient learning / weakly-supervised learning and improving the robustness and interpretability of neural networks. I am particularly enthusiastic about applying the implication to biology and medicine where labeled data are scarce and trustworthiness is valued. Correspondingly, I have worked on various tasks with diverse kinds of data involving texts, images and videos. I am also broadly interested in explainability,  multimodality and neural science.  Currently, I focus on studying large language models, including understanding in-context learning (TEACH @ ICML23), knowledge distillation from LLMs (under review), applying LLMs to clinical QA (in preparation) and debiasing LLMs (ongoing). 
 
 
-Apart from research, I am also interested in entrepreneurship which helps me consider my future research area. I took a minor in entrepreneurship at HKUST. My internship at the CTO lab of [IDEA](https://www.idea.edu.cn/en) was also about collaborating with a unicorn startup.
+Apart from research, I am also interested in entrepreneurship which helps me consider my future research area. I took a minor in entrepreneurship at HKUST. My internship at the CTO lab of [IDEA](https://www.idea.edu.cn/en) was also about collaborating with a unicorn startup. In my spare time, I love photography and architecture. Check my instagram ([*zzzh_nick*](https://instagram.com/zzzh_nick?igshid=YmMyMTA2M2Y=)).  
 
-In my spare time, I love photography and architecture. Check my instagram ([*zzzh_nick*](https://instagram.com/zzzh_nick?igshid=YmMyMTA2M2Y=)).  
 ## Publications  
 ### 2023  
 - **Mist-KD: Multi-stage Knowledge Distillation for Parsing**\
@@ -35,7 +34,7 @@ analyze error bounds of retrieval errors. We relate ICL to humans' memory system
 - **Adaptive Fusion of Deep Learning with Statistical Anatomical Knowledge for Robust Patella Segmentation from CT Images**\
 Jiachen Zhao, Tianshu Jiang, Yi Lin, Justin Chan, Ping-Keung Lewis Chan, Chunyi Wen, Hao Chen\
 submitted to IEEE Journal of Biomedical and Health Informatics.  
-[TL;DR] *Neural networks (NNs) for image segmentation are vulnerable to corrupted images and require sufficient labeled training data. To handle such issues, we propose to combine neural networks with statistical shape models (SSMs) and our method can automatically determine the contribution of NNs and SSMs during combination by predicting which may perform better.*
+[TL;DR] *Neural networks (NNs) for image segmentation are vulnerable to corrupted images and require sufficient labeled training data. To handle such issues, we propose to combine neural networks with statistical shape models (SSMs) and our method can automatically determine the contribution of NNs and SSMs during combination by leveraging proposed statistical methods.*
 
 - **Trigger-free Event Detection via Derangement Reading Comprehension**\
 Jiachen Zhao, Haiqin Yang\
