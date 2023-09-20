@@ -37,8 +37,8 @@ analyze error bounds of retrieval errors. We relate ICL to humans' memory system
 ### 2022 *(my undergraduate work)*
 - **Adaptive Fusion of Deep Learning with Statistical Anatomical Knowledge for Robust Patella Segmentation from CT Images**\
 Jiachen Zhao, Tianshu Jiang, Yi Lin, Justin Chan, Ping-Keung Lewis Chan, Chunyi Wen, Hao Chen\
-Under review.  
-[TL;DR] *Neural networks (NNs) for image segmentation are vulnerable to corrupted images and require sufficient labeled training data. To handle such issues, we propose to combine neural networks with statistical shape models (SSMs) and our method can automatically determine the contribution of NNs and SSMs during combination by leveraging proposed statistical methods.*
+Under review, JBHI.  
+[TL;DR] *Neural networks (NNs) for medical image segmentation are vulnerable to corrupted images and require sufficient labeled training data. To handle such issues, we propose to combine neural networks with statistical shape models (SSMs) and our method can automatically determine the contribution of NNs and SSMs during combination by leveraging proposed statistical methods.*
 
 - **Trigger-free Event Detection via Derangement Reading Comprehension**\
 Jiachen Zhao, Haiqin Yang\
