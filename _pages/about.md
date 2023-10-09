@@ -20,6 +20,10 @@ Apart from research, I am also interested in entrepreneurship which helps me con
 
 ## Publications  
 ### 2023  
+- **Learning and Forgetting Unsafe Examples in Large Language Models**\  
+Jiachen ZHAO, Zhun Deng, David Madras, James Zou, Mengye Ren\
+Under review.
+
 - **Mist-KD: Multi-stage Knowledge Distillation for Parsing**\
 Jiachen Zhao\*, Andrew Drozdov\*, Wenlong Zhao, Benjamin Rozonoyer, Yamini Kashyap, Mehek Tulsyan, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum\
 Under review.
