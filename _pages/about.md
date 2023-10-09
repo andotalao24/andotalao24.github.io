@@ -29,10 +29,6 @@ Under review.
 
 - **Mist-KD: Multi-stage Knowledge Distillation for Parsing**\
 Jiachen Zhao\*, Andrew Drozdov\*, Wenlong Zhao, Benjamin Rozonoyer, Yamini Kashyap, Mehek Tulsyan, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum\
-Under review.
-
-- **Student as an Inherent Denoiser of Noisy Teacher**\
-Jiachen Zhao\
 Under review.  
   
 - **In-Context Exemplars as Clues to Retrieving from Large Associative Memory**\
