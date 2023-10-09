@@ -20,7 +20,7 @@ Apart from research, I am also interested in entrepreneurship which helps me con
 
 ## Publications  
 ### 2023  
-- **Learning and Forgetting Unsafe Examples in Large Language Models**\  
+- **Learning and Forgetting Unsafe Examples in Large Language Models**   
 Jiachen ZHAO, Zhun Deng, David Madras, James Zou, Mengye Ren\
 Under review.
 
