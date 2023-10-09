@@ -38,7 +38,7 @@ Under review.
   
 - **In-Context Exemplars as Clues to Retrieving from Large Associative Memory**\
 Jiachen Zhao\
-Neural Conversational AI Workshop @ ICML-23.  [code](https://github.com/andotalao24/ICL-as-retrieval-from-associative-memory)  [link]()  
+Neural Conversational AI Workshop @ ICML-23.  [code](https://github.com/andotalao24/ICL-as-retrieval-from-associative-memory),  [paper link]()  
 [TL;DR] *We reinterpret In-Context Learning (ICL) of LLMs as contextual retrieval from associative memory motivated by the fact that no gradients update occurs in ICL and
 analyze error bounds of retrieval errors. We relate ICL to humans' memory system to show its biological plausibility. We also discuss the implication of our theory to exemplar selection and chain-of-thought prompting.*
 
@@ -50,7 +50,7 @@ Under review.  [code](https://github.com/andotalao24/PatellaSeg)
 
 - **Trigger-free Event Detection via Derangement Reading Comprehension**\
 Jiachen Zhao, Haiqin Yang\
-*arXiv*, 2022. [link](https://arxiv.org/pdf/2208.09659.pdf)  
+*arXiv*, 2022. [paper link](https://arxiv.org/pdf/2208.09659.pdf)  
 [TL;DR] *This work tries to improve the performance of event detection when human-labeled ``triggers'' are not available (the word in a sentence that is the most representative of the sentence and, thus very costly to annotate).  We reformulate this event classification problem into a multiple-choice QA task to better leverage self-attention. We also propose a token derangement module to tackle the imbalanced learning issue.  Our trigger-free method can reach SOTA performance and even outperform approaches relying on triggers.*
 
 
