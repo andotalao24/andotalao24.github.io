@@ -37,7 +37,7 @@ Neural Conversational AI Workshop @ ICML-23.  [code](https://github.com/andotala
 [TL;DR] *We reinterpret In-Context Learning (ICL) of LLMs as contextual retrieval from associative memory motivated by the fact that no gradients update occurs in ICL and
 analyze error bounds of retrieval errors. We relate ICL to humans' memory system to show its biological plausibility. We also discuss the implication of our theory to exemplar selection and chain-of-thought prompting.*
 
-### 2022 *(my undergraduate work)*
+### 2022   
 - **Adaptive Fusion of Deep Learning with Statistical Anatomical Knowledge for Robust Patella Segmentation from CT Images**\
 Jiachen Zhao, Tianshu Jiang, Yi Lin, Justin Chan, Ping-Keung Lewis Chan, Chunyi Wen, Hao Chen\
 Under review.  [code](https://github.com/andotalao24/PatellaSeg)  
