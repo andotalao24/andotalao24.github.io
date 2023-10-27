@@ -27,9 +27,9 @@ Under review.
 Jiachen Zhao, Zonghai Yao, Zhichao Yang, Hong Yu  
 Under review.  
 
-- **Mist-KD: Multi-stage Knowledge Distillation for Parsing**\
+- **Mist-KD: Multi-stage Knowledge Distillation from Large Language Models**\
 Jiachen Zhao\*, Andrew Drozdov\*, Wenlong Zhao, Benjamin Rozonoyer, Yamini Kashyap, Mehek Tulsyan, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum\
-Under review.  
+*arXiv*, 2023.  
 
 - **Student as an Inherent Denoiser of Noisy Teacher**\
 Jiachen Zhao\
