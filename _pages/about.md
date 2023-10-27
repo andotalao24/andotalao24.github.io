@@ -25,7 +25,7 @@ Under review.
 
 - **SELF-EXPLAIN: Teaching Large Language Models to Reason Complex Questions by Themselves**  
 Jiachen Zhao, Zonghai Yao, Zhichao Yang, Hong Yu  
-Under review.  
+In preparation. Short version accepted by workshop on robustness of zero/few-shot learning in foundation models @ NIPS 23.  
 
 - **Student as an Inherent Denoiser of Noisy Teacher**\
 Jiachen Zhao\
