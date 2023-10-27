@@ -37,19 +37,22 @@ Under review.
 
 - **In-Context Exemplars as Clues to Retrieving from Large Associative Memory**\
 Jiachen Zhao\
-Neural Conversational AI Workshop @ ICML 23. Associative Memory & Hopfield Networks @ NIPS 23.  [code](https://github.com/andotalao24/ICL-as-retrieval-from-associative-memory),  [paper link]()  
+Neural Conversational AI @ ICML 23. Associative Memory & Hopfield Networks @ NIPS 23.  
+[code](https://github.com/andotalao24/ICL-as-retrieval-from-associative-memory),  [paper link]()  
 [TL;DR] *We reinterpret In-Context Learning (ICL) of LLMs as contextual retrieval from associative memory motivated by the fact that no gradients update occurs in ICL and
 analyze error bounds of retrieval errors. We relate ICL to humans' memory system to show its biological plausibility. We also discuss the implication of our theory to exemplar selection and chain-of-thought prompting.*
 
 ### 2022   
 - **Adaptive Fusion of Deep Learning with Statistical Anatomical Knowledge for Robust Patella Segmentation from CT Images**\
 Jiachen Zhao, Tianshu Jiang, Yi Lin, Justin Chan, Ping-Keung Lewis Chan, Chunyi Wen, Hao Chen\
-Under review.  [code](https://github.com/andotalao24/PatellaSeg)  
+Under review.  
+[code](https://github.com/andotalao24/PatellaSeg)  
 [TL;DR] *Neural networks (NNs) for medical image segmentation are vulnerable to corrupted images and require sufficient labeled training data. To handle such issues, we propose to combine neural networks with statistical shape models (SSMs) and our method can automatically determine the contribution of NNs and SSMs during combination by leveraging proposed statistical methods.  Our approach can be attached to mainstream deep learning methods to improve the robustness and data efficiency.*
 
 - **Trigger-free Event Detection via Derangement Reading Comprehension**\
 Jiachen Zhao, Haiqin Yang\
-*arXiv*, 2022. [paper link](https://arxiv.org/pdf/2208.09659.pdf)  
+*arXiv*, 2022.
+[paper link](https://arxiv.org/pdf/2208.09659.pdf)  
 [TL;DR] *This work tries to improve the performance of event detection when human-labeled ``triggers'' are not available (the word in a sentence that is the most representative of the sentence and, thus very costly to annotate).  We reformulate this event classification problem into a multiple-choice QA task to better leverage self-attention. We also propose a token derangement module to tackle the imbalanced learning issue.  Our trigger-free method can reach SOTA performance and even outperform approaches relying on triggers.*
 
 
