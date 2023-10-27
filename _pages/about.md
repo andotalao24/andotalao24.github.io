@@ -27,13 +27,16 @@ Under review.
 Jiachen Zhao, Zonghai Yao, Zhichao Yang, Hong Yu  
 Under review.  
 
-- **Mist-KD: Multi-stage Knowledge Distillation from Large Language Models**\
-Jiachen Zhao\*, Andrew Drozdov\*, Wenlong Zhao, Benjamin Rozonoyer, Yamini Kashyap, Mehek Tulsyan, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum\
-*arXiv*, 2023.  
-
 - **Student as an Inherent Denoiser of Noisy Teacher**\
 Jiachen Zhao\
-Under review.  
+Under review.
+
+- **Mist-KD: Multi-stage Knowledge Distillation from Large Language Models**\
+Jiachen Zhao\*, Andrew Drozdov\*, Wenlong Zhao, Benjamin Rozonoyer, Yamini Kashyap, Mehek Tulsyan, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum\
+In preparation.  
+
+- **Denoising Knowledge Distillation from Noisy Pretrained Teachers**\
+In preparation.  
 
 - **In-Context Exemplars as Clues to Retrieving from Large Associative Memory**\
 Jiachen Zhao\
@@ -51,7 +54,7 @@ Under review.
 
 - **Trigger-free Event Detection via Derangement Reading Comprehension**\
 Jiachen Zhao, Haiqin Yang\
-*arXiv*, 2022.
+*arXiv*.
 [paper link](https://arxiv.org/pdf/2208.09659.pdf)  
 [TL;DR] *This work tries to improve the performance of event detection when human-labeled ``triggers'' are not available (the word in a sentence that is the most representative of the sentence and, thus very costly to annotate).  We reformulate this event classification problem into a multiple-choice QA task to better leverage self-attention. We also propose a token derangement module to tackle the imbalanced learning issue.  Our trigger-free method can reach SOTA performance and even outperform approaches relying on triggers.*
 
