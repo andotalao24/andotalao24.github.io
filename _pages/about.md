@@ -13,7 +13,7 @@ I am looking for PhD positions for 24 fall.
 
 I am currently a Master's student in Computer Science at UMass Amherst where I am lucky to be advised by Professor [Andrew McCallum](https://people.cs.umass.edu/~mccallum/) and Professor [Hong Yu](https://www.cics.umass.edu/faculty/directory/hong_yu) for my Master's thesis. I finished my undergraduate study in Computer Science at HKUST in 2022. In the past, I was a research assistant at [SMART lab](https://hkustsmartlab.netlify.app/) working on medical image analysis with Professor [Hao Chen](https://cse.hkust.edu.hk/~jhc/) and an NLP research intern at [IDEA](https://www.idea.edu.cn/en/about-team.html).  
 
-**Research Interests**. I am especially interested in label-efficient learning / weakly-supervised learning and improving the robustness and interpretability of neural networks. I am particularly enthusiastic about applying the implication to biology and medicine where labeled data are scarce and trustworthiness is valued. Correspondingly, I have worked on various tasks with diverse kinds of data involving texts, images and videos. I am also broadly interested in explainability,  multimodality, and neural science.  
+**Research Interests**. I am especially interested in label-efficient learning / weakly-supervised learning and improving the robustness and interpretability of neural networks. I am particularly enthusiastic about applying the implication to biology and medicine where labeled data are scarce and trustworthiness is valued. Correspondingly, I have worked on various tasks with diverse kinds of data involving texts, images and videos. I am also broadly interested in explainability,  multimodality, and neural science.  I am currently working on large language models with a special interest in memorization and generalization.
 
 Apart from research, I am also interested in entrepreneurship which helps me consider my future research area. I took a minor in entrepreneurship at HKUST. My internship at the CTO lab of [IDEA](https://www.idea.edu.cn/en) was also about collaborating with a unicorn startup. In my spare time, I love photography and architecture. Check my instagram ([*zzzh_nick*](https://instagram.com/zzzh_nick?igshid=YmMyMTA2M2Y=)).  
 
@@ -21,19 +21,29 @@ Apart from research, I am also interested in entrepreneurship which helps me con
 ### 2023  
 - **Learning and Forgetting Unsafe Examples in Large Language Models**   
 **_Jiachen Zhao_**, Zhun Deng, David Madras, James Zou, Mengye Ren\
-Under review.
+Under review.  
+
 
 - **SELF-EXPLAIN: Teaching Large Language Models to Reason Complex Questions by Themselves**  
 **_Jiachen Zhao_**, Zonghai Yao, Zhichao Yang, Hong Yu  
-In preparation. Early version accepted by workshop on robustness of zero/few-shot learning in foundation models @ NIPS 23.    
+In preparation. Workshop on robustness of zero/few-shot learning in foundation models @ NIPS 23.  
+[TL;DR] *Inspired by encoding specificity in humans' memory system, we find LLMs themselves can produce explanations of complex questions given the answer, which we refer to SELF-EXPLAIN. Prompting with self-explanation through in-context learning can make LLMs more confident and more calibrated as well. Prompting with self-explanation can even outperform prompting with human-crafted CoT on challenging knowledge-intensive reasoning tasks.*
 
 - **Mist-KD: Multi-stage Knowledge Distillation from Large Language Models**\
-**_Jiachen Zhao_**, Wenlong Zhao\*,  Andrew Drozdov\*，Benjamin Rozonoyer, Yamini Kashyap, Mehek Tulsyan, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum\
+**_Jiachen Zhao_**, Wenlong Zhao\*,  Andrew Drozdov\*，Benjamin Rozonoyer, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum\
 In preparation.  
+[TL;DR] *We investigate knowledge distillation from LLMs in low-data regimes. We find that the student model whose predictions have matched sufficient teacher labels during KD
+can outperform the teacher on held-out data. We propose Mist-KD, a novel variant of knowledge distillation for few-shot settings. Empirically, students trained by Mist-KD achieve significant error
+reduction compared to the teacher LLM, while being significantly faster.*
 
 - **Student as an Inherent Denoiser of Noisy Teacher**\
 **_Jiachen Zhao_**\
-3rd Workshop on Efficient Natural Language and Speech Processing @ NIPS 23.
+3rd Workshop on Efficient Natural Language and Speech Processing @ NIPS 23.  
+[TL;DR] *We provide new insights in the learning process of knowledge distillation (KD).
+We unveil the inherent denoising effect in KD that at the early stage of KD,
+the student model can generate better predictions than teacher labels used to train it.  We identify that this phenomenon can be attributed to the discrepancies in learning teacher labels.
+Motivated by our findings, we propose peer-advised KD to optimize vanilla KD.  While this work focuses on parsing, a more comprehensive version that has validated the same findings across eight datasets covering different tasks is in preparation.*  
+
 
 - **In-Context Exemplars as Clues to Retrieving from Large Associative Memory**\
 **_Jiachen Zhao_**\
