@@ -27,7 +27,7 @@ Under review.
 - **SELF-EXPLAIN: Teaching Large Language Models to Reason Complex Questions by Themselves**  
 **_Jiachen Zhao_**, Zonghai Yao, Zhichao Yang, Hong Yu  
 In preparation. Workshop on robustness of zero/few-shot learning in foundation models @ NIPS 23.  
-[TL;DR] *Inspired by encoding specificity in humans' memory system, we find LLMs themselves can produce explanations of complex questions given the answer, which we refer to SELF-EXPLAIN. Prompting with self-explanation through in-context learning can make LLMs more confident and more calibrated as well. Prompting with self-explanation can even outperform prompting with human-crafted CoT on challenging knowledge-intensive reasoning tasks.*
+[TL;DR] *Inspired by encoding specificity in humans' memory system, we find LLMs themselves can produce explanations of complex questions given an answer, which we refer to SELF-EXPLAIN. Prompting with self-explanation through in-context learning can make LLMs more confident and more calibrated as well. Prompting with self-explanation can even outperform prompting with human-crafted CoT on challenging knowledge-intensive reasoning tasks.*
 
 - **Mist-KD: Multi-stage Knowledge Distillation from Large Language Models**\
 **_Jiachen Zhao_**, Wenlong Zhao\*,  Andrew Drozdov\*，Benjamin Rozonoyer, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum\
