@@ -25,11 +25,7 @@ Under review.
 
 - **SELF-EXPLAIN: Teaching Large Language Models to Reason Complex Questions by Themselves**  
 Jiachen Zhao, Zonghai Yao, Zhichao Yang, Hong Yu  
-In preparation. Short version accepted by workshop on robustness of zero/few-shot learning in foundation models @ NIPS 23.  
-
-- **Student as an Inherent Denoiser of Noisy Teacher**\
-Jiachen Zhao\
-Under review.
+In preparation. Early version accepted by workshop on robustness of zero/few-shot learning in foundation models @ NIPS 23.    
 
 - **Mist-KD: Multi-stage Knowledge Distillation from Large Language Models**\
 Jiachen Zhao\*, Andrew Drozdov\*, Wenlong Zhao, Benjamin Rozonoyer, Yamini Kashyap, Mehek Tulsyan, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum\
@@ -37,6 +33,10 @@ In preparation.
 
 - **Denoising Knowledge Distillation from Noisy Pretrained Teachers**\
 In preparation.  
+
+- **Student as an Inherent Denoiser of Noisy Teacher**\
+Jiachen Zhao\
+3rd Workshop on Efficient Natural Language and Speech Processing @ NIPS 23.
 
 - **In-Context Exemplars as Clues to Retrieving from Large Associative Memory**\
 Jiachen Zhao\
