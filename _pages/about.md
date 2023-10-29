@@ -28,7 +28,7 @@ Under review.
 In preparation. Early version accepted by workshop on robustness of zero/few-shot learning in foundation models @ NIPS 23.    
 
 - **Mist-KD: Multi-stage Knowledge Distillation from Large Language Models**\
-**_Jiachen Zhao_**\*, Andrew Drozdov\*, Wenlong Zhao, Benjamin Rozonoyer, Yamini Kashyap, Mehek Tulsyan, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum\
+**_Jiachen Zhao_**, Wenlong Zhao\*,  Andrew Drozdov\*，Benjamin Rozonoyer, Yamini Kashyap, Mehek Tulsyan, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum\
 In preparation.  
 
 - **Denoising Knowledge Distillation from Noisy Pretrained Teachers**\
