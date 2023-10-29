@@ -9,9 +9,9 @@ redirect_from:
 - /about.html
 
 ---
-I am looking for PhD positions for 24 fall.  
+I am looking for PhD positions for 24 fall!  
 
-I am currently a Master's student in Computer Science at UMass Amherst where I am lucky to be advised by Professor [Andrew McCallum](https://people.cs.umass.edu/~mccallum/) and Professor [Hong Yu](https://www.cics.umass.edu/faculty/directory/hong_yu) for my Master's thesis. I finished my undergraduate study in Computer Science at HKUST in 2022. In the past, I was a research assistant at [SMART lab](https://hkustsmartlab.netlify.app/) working on medical image analysis with Professor [Hao Chen](https://cse.hkust.edu.hk/~jhc/) and an NLP research intern at [IDEA](https://www.idea.edu.cn/en/about-team.html).  
+I am currently a Master's student in Computer Science at UMass Amherst where I am lucky to be advised by Professor [Andrew McCallum](https://people.cs.umass.edu/~mccallum/) and Professor [Hong Yu](https://www.cics.umass.edu/faculty/directory/hong_yu). I finished my undergraduate study in Computer Science at HKUST in 2022. In the past, I was a research assistant at [SMART lab](https://hkustsmartlab.netlify.app/) working on medical image analysis with Professor [Hao Chen](https://cse.hkust.edu.hk/~jhc/) and an NLP research intern at [IDEA](https://www.idea.edu.cn/en/about-team.html).  
 
 **Research Interests**. I am especially interested in label-efficient learning / weakly-supervised learning and improving the robustness and interpretability of neural networks. I am particularly enthusiastic about applying the implication to biology and medicine where labeled data are scarce and trustworthiness is valued. Correspondingly, I have worked on various tasks with diverse kinds of data involving texts, images and videos. I am also broadly interested in explainability,  multimodality, and neural science.  I am currently working on large language models with a special interest in memorization and generalization.
 
@@ -50,7 +50,7 @@ Motivated by our findings, we propose peer-advised KD to optimize vanilla KD.  W
 Neural Conversational AI @ ICML 23. Associative Memory & Hopfield Networks @ NIPS 23.  
 [code](https://github.com/andotalao24/ICL-as-retrieval-from-associative-memory),  [paper link]()  
 [TL;DR] *We reinterpret In-Context Learning (ICL) of LLMs as contextual retrieval from associative memory motivated by the fact that no gradients update occurs in ICL and
-analyze error bounds of retrieval errors. We relate ICL to humans' memory system to show its biological plausibility. We also discuss the implication of our theory to exemplar selection and chain-of-thought prompting.*
+analyze error bounds of retrieval errors. We relate ICL to humans' memory systems to show some phenomenon-level biological plausibility. We also discuss the implication of our theory to exemplar selection and chain-of-thought prompting.*
 
 ### 2022   
 - **Adaptive Fusion of Deep Learning with Statistical Anatomical Knowledge for Robust Patella Segmentation from CT Images**\
