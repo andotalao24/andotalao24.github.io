@@ -20,26 +20,26 @@ Apart from research, I am also interested in entrepreneurship which helps me con
 ## Publications  
 ### 2023  
 - **Learning and Forgetting Unsafe Examples in Large Language Models**   
-Jiachen Zhao, Zhun Deng, David Madras, James Zou, Mengye Ren\
+**_Jiachen Zhao_**, Zhun Deng, David Madras, James Zou, Mengye Ren\
 Under review.
 
 - **SELF-EXPLAIN: Teaching Large Language Models to Reason Complex Questions by Themselves**  
-Jiachen Zhao, Zonghai Yao, Zhichao Yang, Hong Yu  
+**_Jiachen Zhao_**, Zonghai Yao, Zhichao Yang, Hong Yu  
 In preparation. Early version accepted by workshop on robustness of zero/few-shot learning in foundation models @ NIPS 23.    
 
 - **Mist-KD: Multi-stage Knowledge Distillation from Large Language Models**\
-Jiachen Zhao\*, Andrew Drozdov\*, Wenlong Zhao, Benjamin Rozonoyer, Yamini Kashyap, Mehek Tulsyan, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum\
+**_Jiachen Zhao_**\*, Andrew Drozdov\*, Wenlong Zhao, Benjamin Rozonoyer, Yamini Kashyap, Mehek Tulsyan, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum\
 In preparation.  
 
 - **Denoising Knowledge Distillation from Noisy Pretrained Teachers**\
 In preparation.  
 
   - **Student as an Inherent Denoiser of Noisy Teacher**\
-  Jiachen Zhao\
+  **_Jiachen Zhao_**\
   3rd Workshop on Efficient Natural Language and Speech Processing @ NIPS 23.
 
 - **In-Context Exemplars as Clues to Retrieving from Large Associative Memory**\
-Jiachen Zhao\
+**_Jiachen Zhao_**\
 Neural Conversational AI @ ICML 23. Associative Memory & Hopfield Networks @ NIPS 23.  
 [code](https://github.com/andotalao24/ICL-as-retrieval-from-associative-memory),  [paper link]()  
 [TL;DR] *We reinterpret In-Context Learning (ICL) of LLMs as contextual retrieval from associative memory motivated by the fact that no gradients update occurs in ICL and
@@ -47,13 +47,13 @@ analyze error bounds of retrieval errors. We relate ICL to humans' memory system
 
 ### 2022   
 - **Adaptive Fusion of Deep Learning with Statistical Anatomical Knowledge for Robust Patella Segmentation from CT Images**\
-Jiachen Zhao, Tianshu Jiang, Yi Lin, Justin Chan, Ping-Keung Lewis Chan, Chunyi Wen, Hao Chen\
+**_Jiachen Zhao_**, Tianshu Jiang, Yi Lin, Justin Chan, Ping-Keung Lewis Chan, Chunyi Wen, Hao Chen\
 Under review.  
 [code](https://github.com/andotalao24/PatellaSeg), [paper link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4026021) to an early preprint version  
 [TL;DR] *Neural networks (NNs) for medical image segmentation are vulnerable to corrupted images and require sufficient labeled training data. To handle such issues, we propose to combine neural networks with statistical shape models (SSMs) and our method can automatically determine the contribution of NNs and SSMs during combination by leveraging proposed statistical methods.  Our approach can be attached to mainstream deep learning methods to improve the robustness and data efficiency.*
 
 - **Trigger-free Event Detection via Derangement Reading Comprehension**\
-Jiachen Zhao, Haiqin Yang\
+**_Jiachen Zhao_**, Haiqin Yang\
 *arXiv*.
 [paper link](https://arxiv.org/pdf/2208.09659.pdf)  
 [TL;DR] *This work tries to improve the performance of event detection when human-labeled ``triggers'' are not available (the word in a sentence that is the most representative of the sentence and, thus very costly to annotate).  We reformulate this event classification problem into a multiple-choice QA task to better leverage self-attention. We also propose a token derangement module to tackle the imbalanced learning issue.  Our trigger-free method can reach SOTA performance and even outperform approaches relying on triggers.*
