@@ -34,9 +34,9 @@ In preparation.
 - **Denoising Knowledge Distillation from Noisy Pretrained Teachers**\
 In preparation.  
 
-- **Student as an Inherent Denoiser of Noisy Teacher**\
-Jiachen Zhao\
-3rd Workshop on Efficient Natural Language and Speech Processing @ NIPS 23.
+  - **Student as an Inherent Denoiser of Noisy Teacher**\
+  Jiachen Zhao\
+  3rd Workshop on Efficient Natural Language and Speech Processing @ NIPS 23.
 
 - **In-Context Exemplars as Clues to Retrieving from Large Associative Memory**\
 Jiachen Zhao\
