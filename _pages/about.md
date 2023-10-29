@@ -32,7 +32,8 @@ In preparation. Early version accepted by workshop on robustness of zero/few-sho
 In preparation.  
 
 - **Denoising Knowledge Distillation from Noisy Pretrained Teachers**\
-**_Jiachen Zhao_**, Wenlong Zhao   
+**_Jiachen Zhao_**, Wenlong Zhao  
+In preparation.  
 
   - **Student as an Inherent Denoiser of Noisy Teacher**\
   **_Jiachen Zhao_**\
