@@ -33,7 +33,8 @@ reduction compared to the teacher LLM, while being significantly faster.*
 
 - **SELF-EXPLAIN: Teaching Large Language Models to Reason Complex Questions by Themselves**  
 **_Jiachen Zhao_**, Zonghai Yao, Zhichao Yang, Hong Yu  
-In preparation. Workshop on robustness of zero/few-shot learning in foundation models @ `NIPS 23`.  
+In preparation.  
+Workshop on robustness of zero/few-shot learning in foundation models @ `NIPS 23`.  
 `[TL;DR]` *Inspired by encoding specificity in humans' memory system, we find LLMs themselves can produce explanations of complex questions given an answer, which we refer to SELF-EXPLAIN. Prompting with self-explanation through in-context learning can make LLMs more confident and more calibrated as well. Prompting with self-explanation can even outperform prompting with human-crafted CoT on challenging knowledge-intensive reasoning tasks.*
 
 - **Student as an Inherent Denoiser of Noisy Teacher**\
