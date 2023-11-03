@@ -49,7 +49,7 @@ Motivated by our findings, we propose peer-advised KD to optimize vanilla KD.  W
 - **In-Context Exemplars as Clues to Retrieving from Large Associative Memory**\
 **_Jiachen Zhao_**\
 Neural Conversational AI @ `ICML 23`. Associative Memory & Hopfield Networks @ `NIPS 23`.  
-[[code](https://github.com/andotalao24/ICL-as-retrieval-from-associative-memory)] [<a href="../file/_arxiv__ICL_as_retrieval" target="_blank">pdf</a>]  
+[[code](https://github.com/andotalao24/ICL-as-retrieval-from-associative-memory)] [<a href="https://github.com/andotalao24.github.io/file/_arxiv__ICL_as_retrieval.pdf" target="_blank">pdf</a>]  
 `[TL;DR]` *We reinterpret In-Context Learning (ICL) of LLMs as contextual retrieval from associative memory motivated by the fact that no gradients update occurs in ICL and
 analyze error bounds of retrieval errors. We relate ICL to humans' memory systems to show some phenomenon-level biological plausibility. We also discuss the implication of our theory to exemplar selection.*
 
