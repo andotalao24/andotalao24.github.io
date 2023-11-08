@@ -25,7 +25,7 @@ Under review.
 
 
 - **Multi-stage Knowledge Distillation from Large Language Models with Collaborative Peers**\
-**_Jiachen Zhao_**, Wenlong Zhao\*,  Andrew Drozdov\*，Benjamin Rozonoyer, Md Arafat Sultan, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum\
+**_Jiachen Zhao_**, Wenlong Zhao\*,  Andrew Drozdov\*, Benjamin Rozonoyer, Md Arafat Sultan, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum\
 In preparation.  
 `[TL;DR]` *We investigate knowledge distillation from LLMs in low-data regimes. We find that the student model whose predictions have matched sufficient teacher labels during KD
 can outperform the teacher on held-out data. We propose Mist-KD, a novel variant of knowledge distillation for few-shot settings. Empirically, students trained by Mist-KD achieve significant error
