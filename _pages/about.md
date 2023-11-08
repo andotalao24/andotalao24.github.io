@@ -39,7 +39,8 @@ Workshop on robustness of zero/few-shot learning in foundation models @ `NIPS 23
 
 - **Student as an Inherent Denoiser of Noisy Teacher**\
 **_Jiachen Zhao_**\
-3rd Workshop on Efficient Natural Language and Speech Processing @ `NIPS 23`.  
+3rd Workshop on Efficient Natural Language and Speech Processing @ `NIPS 23`.
+[[pdf](https://andotalao24.github.io/files/_nips23__efficient_nlp_workshop.pdf)]   
 `[TL;DR]` *We provide new insights in the learning process of knowledge distillation (KD).
 We unveil the inherent denoising effect in KD that at the early stage of KD,
 the student model can generate better predictions than teacher labels used to train it.  We identify that this phenomenon can be attributed to the discrepancies in learning teacher labels.
