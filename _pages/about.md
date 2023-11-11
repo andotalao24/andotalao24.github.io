@@ -26,7 +26,7 @@ Under review.
 
 - **Multi-stage Knowledge Distillation from Large Language Models with Collaborative Peers**\
 **_Jiachen Zhao_**, Wenlong Zhao\*,  Andrew Drozdov\*, Benjamin Rozonoyer, Md Arafat Sultan, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum\
-In preparation.  
+preprint.      
 [[code]()] [[pdf]()]  
 `[TL;DR]` *We investigate knowledge distillation from LLMs in low-data regimes. We find that the student model whose predictions have matched sufficient teacher labels during KD
 can outperform the teacher on held-out data. We propose Mist-KD, a novel variant of knowledge distillation for few-shot settings. Empirically, students trained by Mist-KD achieve significant error
@@ -36,6 +36,7 @@ reduction compared to the teacher LLM, while being significantly faster.*
 **_Jiachen Zhao_**, Zonghai Yao, Zhichao Yang, Hong Yu  
 In preparation.  
 Workshop on robustness of zero/few-shot learning in foundation models @ `NIPS 23`.  
+[[pdf]()]  
 `[TL;DR]` *Inspired by encoding specificity in humans' memory system, we find LLMs themselves can produce explanations of complex questions given an answer, which we refer to SELF-EXPLAIN. Prompting with self-explanation through in-context learning can make LLMs more confident and more calibrated as well. Prompting with self-explanation can even outperform prompting with human-crafted CoT on challenging knowledge-intensive reasoning tasks.*
 
 - **Student as an Inherent Denoiser of Noisy Teacher**\
