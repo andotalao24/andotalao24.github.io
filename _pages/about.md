@@ -24,10 +24,10 @@ Apart from research, I am also interested in entrepreneurship which helps me con
 Under review.  
 
 
-- **Multi-stage Knowledge Distillation from Large Language Models with Collaborative Peers**\
+- **Multistage Collaborative Knowledge Distillation from Large Language Models**\
 **_Jiachen Zhao_**, Wenlong Zhao\*,  Andrew Drozdov\*, Benjamin Rozonoyer, Md Arafat Sultan, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum\
 preprint.      
-[[code]()] [[pdf]()]  
+[[pdf](https://andotalao24.github.io/files/MCKD_arxiv.pdf)]  
 `[TL;DR]` *We investigate knowledge distillation from LLMs in low-data regimes. We find that the student model whose predictions have matched sufficient teacher labels during KD
 can outperform the teacher on held-out data. We propose Mist-KD, a novel variant of knowledge distillation for few-shot settings. Empirically, students trained by Mist-KD achieve significant error
 reduction compared to the teacher LLM, while being significantly faster.*
@@ -60,7 +60,7 @@ analyze error bounds of retrieval errors. We relate ICL to humans' memory system
 - **Adaptive Fusion of Deep Learning with Statistical Anatomical Knowledge for Robust Patella Segmentation from CT Images**\
 **_Jiachen Zhao_**, Tianshu Jiang, Yi Lin, Justin Chan, Ping-Keung Lewis Chan, Chunyi Wen, Hao Chen\
 Under review, JBHI.  
-[[code](https://github.com/andotalao24/PatellaSeg)] [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4026021) to an early preprint version]  
+[[code](https://github.com/andotalao24/PatellaSeg)] [[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4026021)]  
 `[TL;DR]` *Neural networks (NNs) for medical image segmentation are vulnerable to corrupted images and require sufficient labeled training data. To handle such issues, we propose to combine neural networks with statistical shape models (SSMs) and our method can automatically determine the contribution of NNs and SSMs during combination by leveraging proposed statistical methods.  Our approach can be attached to mainstream deep learning methods to improve the robustness and data efficiency.*
 
 - **Trigger-free Event Detection via Derangement Reading Comprehension**\
