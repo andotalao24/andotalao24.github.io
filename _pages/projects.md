@@ -7,7 +7,7 @@ author_profile: true
 
 ## Featured  
 **Improving fairness of Large Language Models**  June 2023 - Current  
-*supervised by Prof. Mengye Ren, Dr. Zhun Deng and Prof. James Zou*  
+*supervised by Prof. Mengye Ren and Prof. James Zou*  
 
 - Working on understanding the effects of supervised finetuning on LLMs for debiasing from the view of continual learning.  
 
@@ -28,7 +28,7 @@ model (i.e., T5).
 - Two papers in submission.
 
 
-**Patella segmentation for the early detection of osteoarthritis** June 2021 – October 2021  
+**Patella segmentation for the early detection of osteoarthritis** June 2021 – Feb 2022 
 *Supervised by Prof. [Hao Chen](https://scholar.google.com/citations?user=Z_t5DjwAAAAJ&hl=en&oi=ao)*  
 
 - Worked on increasing the robustness and data-efficiency of Convolutional Neural Networks (CNN) by
