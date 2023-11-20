@@ -16,7 +16,7 @@ author_profile: true
 
 - Working on automatic Chain-of-Thought generation for clinical QA to resolve shortage of annotations. 
 - Working on improving zero-shot QA performance by adding medical jargons to prompts.
-- Two papers in preparation. 
+
 
 
 **Few-shot parsing for biomedical texts** Sep 2022 – Current  
@@ -25,7 +25,7 @@ author_profile: true
 - Focused on few-shot constituency parsing. Worked on knowledge distillation from LLMs to a smaller applicable language
 model (i.e., T5).  
 - Worked on understanding the performance difference between student and teacher in knowledge distillation. Worked on more effective KD methods to handle noise in teacher labels.
-- Two papers in submission.
+
 
 
 **Patella segmentation for the early detection of osteoarthritis** June 2021 – Feb 2022 
