@@ -50,7 +50,7 @@ the student model can generate better predictions than teacher labels used to tr
 - **In-Context Exemplars as Clues to Retrieving from Large Associative Memory**\
 **_Jiachen Zhao_**\
 Neural Conversational AI @ `ICML 23`. Associative Memory & Hopfield Networks @ `NIPS 23`.  
-[[code](https://github.com/andotalao24/ICL-as-retrieval-from-associative-memory)] [[pdf](https://arxiv.org/pdf/2311.03498.pdf)]   
+[[code](https://github.com/andotalao24/ICL-as-retrieval-from-associative-memory)] [[pdf](https://arxiv.org/pdf/2311.03498.pdf)]     
 `[TL;DR]` *We reinterpret In-Context Learning (ICL) of LLMs as contextual retrieval from associative memory motivated by the fact that no gradients update occurs in ICL and
 analyze error bounds of retrieval errors. We relate ICL to humans' memory systems to show some phenomenon-level biological plausibility. We also discuss the implication of our theory to exemplar selection.*
 
@@ -58,7 +58,7 @@ analyze error bounds of retrieval errors. We relate ICL to humans' memory system
 - **Adaptive Fusion of Deep Learning with Statistical Anatomical Knowledge for Robust Patella Segmentation from CT Images**\
 **_Jiachen Zhao_**, Tianshu Jiang, Yi Lin, Justin Chan, Ping-Keung Lewis Chan, Chunyi Wen, Hao Chen\
 Under review, JBHI.  
-[[code](https://github.com/andotalao24/PatellaSeg)] [[pdf]([https://andotalao24.github.io/files/jbhi_color.pdf])
+[[code](https://github.com/andotalao24/PatellaSeg)] [[pdf](https://andotalao24.github.io/files/jbhi_color.pdf)]  
 `[TL;DR]` *Neural networks (NNs) for medical image segmentation are vulnerable to corrupted images and require sufficient labeled training data. To handle such issues, we propose to combine neural networks with statistical shape models (SSMs) and our method can automatically determine the contribution of NNs and SSMs during combination by leveraging proposed statistical methods.  Our approach can be attached to mainstream deep learning methods to improve the robustness and data efficiency.*
 
 - **Trigger-free Event Detection via Derangement Reading Comprehension**\
