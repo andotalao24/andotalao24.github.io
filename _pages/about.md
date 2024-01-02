@@ -22,11 +22,12 @@ Apart from research, I am also interested in entrepreneurship which helps me con
 - **Learning and Forgetting Unsafe Examples in Large Language Models**   
 **_Jiachen Zhao_**, Zhun Deng, David Madras, James Zou, Mengye Ren\
 Under review.  
+[[pdf](https://arxiv.org/pdf/2312.12736.pdf)]
 
 
 - **Multistage Collaborative Knowledge Distillation from Large Language Models**\
 **_Jiachen Zhao_**, Wenlong Zhao\*,  Andrew Drozdov\*, Benjamin Rozonoyer, Md Arafat Sultan, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum\
-preprint.      
+Preprint.      
 [[pdf](https://arxiv.org/pdf/2311.08640.pdf)]  
 `[TL;DR]` *We study a challenging scenario where labeled data are too few to finetune a model and few-shot prompted LLMs also have suboptimal performance.  We find that a student model that has memorized sufficient teacher labels during knowledge distillation can outperform the teacher model on held-out data by correcting teacher's mistakes instead of repeating them.  We then propose Multistage Collaborative Knowledge Distillation (MCKD). On challenging biomedical parsing, 3-stage MCKD with 50 labeled examples matches the performance of supervised finetuning with 500 examples and outperforms the prompted LLM and vanilla KD by 7.5% and 3.7% parsing F1, respectively.*
 
