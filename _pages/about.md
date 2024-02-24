@@ -18,7 +18,13 @@ I am currently a Master's student in Computer Science at UMass Amherst where I a
 Apart from research, I am also interested in entrepreneurship which helps me consider my future research area. I took a minor in entrepreneurship at HKUST. My internship at the CTO lab of [IDEA](https://www.idea.edu.cn/en) was also about collaborating with a unicorn startup. In my spare time, I love photography and architecture. Check my instagram ([*zzzh_nick*](https://instagram.com/zzzh_nick?igshid=YmMyMTA2M2Y=)).  
 
 ## Publications  
-### 2023  
+### 2024  
+- **Adaptive Fusion of Deep Learning with Statistical Anatomical Knowledge for Robust Patella Segmentation from CT Images**\
+**_Jiachen Zhao_**, Tianshu Jiang, Yi Lin, Justin Chan, Ping-Keung Lewis Chan, Chunyi Wen, Hao Chen\
+Journal of Biomedical & Health Informatics.  
+[[code](https://github.com/andotalao24/PatellaSeg)] [[pdf](https://andotalao24.github.io/files/jbhi_color.pdf)]  
+`[TL;DR]` *Neural networks (NNs) for medical image segmentation are vulnerable to corrupted images and require sufficient labeled training data. To handle such issues, we propose to combine neural networks with statistical shape models (SSMs) and our method can automatically determine the contribution of NNs and SSMs during combination by leveraging proposed statistical methods.  Our approach can be attached to mainstream deep learning methods to improve the robustness and data efficiency.*
+
 - **Learning and Forgetting Unsafe Examples in Large Language Models**   
 **_Jiachen Zhao_**, Zhun Deng, David Madras, James Zou, Mengye Ren\
 Under review.  
@@ -27,11 +33,12 @@ Under review.
 
 - **Multistage Collaborative Knowledge Distillation from Large Language Models**\
 **_Jiachen Zhao_**, Wenlong Zhao\*,  Andrew Drozdov\*, Benjamin Rozonoyer, Md Arafat Sultan, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum\
-Preprint.      
+Under review.      
 [[pdf](https://arxiv.org/pdf/2311.08640.pdf)]  
 `[TL;DR]` *We study a challenging scenario where labeled data are too few to finetune a model and few-shot prompted LLMs also have suboptimal performance.  We find that a student model that has memorized sufficient teacher labels during knowledge distillation can outperform the teacher model on held-out data by correcting teacher's mistakes instead of repeating them.  We then propose Multistage Collaborative Knowledge Distillation (MCKD). On challenging biomedical parsing, 3-stage MCKD with 50 labeled examples matches the performance of supervised finetuning with 500 examples and outperforms the prompted LLM and vanilla KD by 7.5% and 3.7% parsing F1, respectively.*
 
 
+### 2023  
 - **SELF-EXPLAIN: Teaching Large Language Models to Reason Complex Questions by Themselves**  
 **_Jiachen Zhao_**, Zonghai Yao, Zhichao Yang, Hong Yu  
 In preparation.  
@@ -56,12 +63,6 @@ Neural Conversational AI @ `ICML 23`. Associative Memory & Hopfield Networks @ `
 analyze error bounds of retrieval errors. We relate ICL to humans' memory systems to show some phenomenon-level biological plausibility. We also discuss the implication of our theory to exemplar selection.*
 
 ### 2022   
-- **Adaptive Fusion of Deep Learning with Statistical Anatomical Knowledge for Robust Patella Segmentation from CT Images**\
-**_Jiachen Zhao_**, Tianshu Jiang, Yi Lin, Justin Chan, Ping-Keung Lewis Chan, Chunyi Wen, Hao Chen\
-Journal Of Biomedical & Health Informatics.  
-[[code](https://github.com/andotalao24/PatellaSeg)] [[pdf](https://andotalao24.github.io/files/jbhi_color.pdf)]  
-`[TL;DR]` *Neural networks (NNs) for medical image segmentation are vulnerable to corrupted images and require sufficient labeled training data. To handle such issues, we propose to combine neural networks with statistical shape models (SSMs) and our method can automatically determine the contribution of NNs and SSMs during combination by leveraging proposed statistical methods.  Our approach can be attached to mainstream deep learning methods to improve the robustness and data efficiency.*
-
 - **Trigger-free Event Detection via Derangement Reading Comprehension**\
 **_Jiachen Zhao_**, Haiqin Yang\
 arXiv.  
