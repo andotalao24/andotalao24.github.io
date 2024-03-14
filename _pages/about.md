@@ -22,7 +22,7 @@ Apart from research, I am also interested in entrepreneurship which helps me con
 - **Adaptive Fusion of Deep Learning with Statistical Anatomical Knowledge for Robust Patella Segmentation from CT Images**\
 **_Jiachen Zhao_**, Tianshu Jiang, Yi Lin, Justin Chan, Ping-Keung Lewis Chan, Chunyi Wen, Hao Chen\
 Journal of Biomedical & Health Informatics.  
-[[code](https://github.com/andotalao24/PatellaSeg)] [[pdf](https://andotalao24.github.io/files/jbhi_color.pdf)]  
+[[code](https://github.com/andotalao24/PatellaSeg)] [[pdf]([https://andotalao24.github.io/files/jbhi_color.pdf](https://ieeexplore.ieee.org/abstract/document/10461000))]  
 `[TL;DR]` *Neural networks (NNs) for medical image segmentation are vulnerable to corrupted images and require sufficient labeled training data. To handle such issues, we propose to combine neural networks with statistical shape models (SSMs) and our method can automatically determine the contribution of NNs and SSMs during combination by leveraging proposed statistical methods.  Our approach can be attached to mainstream deep learning methods to improve the robustness and data efficiency.*
 
 - **Learning and Forgetting Unsafe Examples in Large Language Models**   
