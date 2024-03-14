@@ -31,7 +31,7 @@ Under review.
 [[pdf](https://arxiv.org/pdf/2312.12736.pdf)]
 
 
-- **Multistage Collaborative Knowledge Distillation from Large Language Models**\
+- **Multistage Collaborative Knowledge Distillation from a Large Language Model for Semi-Supervised Sequence Generation**\
 **_Jiachen Zhao_**, Wenlong Zhao\*,  Andrew Drozdov\*, Benjamin Rozonoyer, Md Arafat Sultan, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum\
 Under review.      
 [[pdf](https://arxiv.org/pdf/2311.08640.pdf)]  
