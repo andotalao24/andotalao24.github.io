@@ -9,8 +9,6 @@ redirect_from:
 - /about.html
 
 ---
-I am looking for PhD positions for 24 fall!  
-
 I am currently a Master's student in Computer Science at UMass Amherst where I am lucky to be advised by Professor [Andrew McCallum](https://people.cs.umass.edu/~mccallum/) and Professor [Hong Yu](https://www.cics.umass.edu/faculty/directory/hong_yu). I finished my undergraduate study in Computer Science at HKUST in 2022. In the past, I was a research assistant at [SMART lab](https://hkustsmartlab.netlify.app/) working on medical image analysis with Professor [Hao Chen](https://cse.hkust.edu.hk/~jhc/) and an NLP research intern at [IDEA](https://www.idea.edu.cn/en/about-team.html).  
 
 **Research Interests**. I am especially interested in label-efficient learning / weakly-supervised learning and improving the robustness and interpretability of neural networks. I am particularly enthusiastic about applying the implication to biology and medicine where labeled data are scarce and trustworthiness is valued. Correspondingly, I have worked on various tasks with diverse kinds of data involving texts, images and videos. I am also interested in multimodality and neural science.  I am currently working on large language models with a special interest in memorization and generalization. 
