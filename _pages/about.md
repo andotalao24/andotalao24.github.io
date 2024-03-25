@@ -13,7 +13,7 @@ I am currently a Master's student in Computer Science at UMass Amherst where I a
 
 **Research Interests**. I am especially interested in label-efficient learning / weakly-supervised learning and improving the robustness and interpretability of neural networks. I am particularly enthusiastic about applying the implication to biology and medicine where labeled data are scarce and trustworthiness is valued. Correspondingly, I have worked on various tasks with diverse kinds of data involving texts, images and videos. I am currently working on large language models. 
 
-Apart from research, I am also interested in entrepreneurship which helps me consider my future research area. I took a minor in entrepreneurship at HKUST. My internship at the CTO lab of [IDEA](https://www.idea.edu.cn/en) was also about collaborating with a unicorn startup. In my spare time, I love photography and architecture. Check my instagram ([*zzzh_nick*](https://instagram.com/zzzh_nick?igshid=YmMyMTA2M2Y=)).  
+
 
 ## Publications  
 ### 2024  
