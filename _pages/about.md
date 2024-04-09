@@ -17,12 +17,6 @@ I am currently a Master's student in Computer Science at UMass Amherst where I a
 
 ## Publications  
 ### 2024  
-- **Adaptive Fusion of Deep Learning with Statistical Anatomical Knowledge for Robust Patella Segmentation from CT Images**\
-**_Jiachen Zhao_**, Tianshu Jiang, Yi Lin, Justin Chan, Ping-Keung Lewis Chan, Chunyi Wen, Hao Chen\
-Journal of Biomedical & Health Informatics.  
-[[code](https://github.com/andotalao24/PatellaSeg)] [[pdf](https://ieeexplore.ieee.org/abstract/document/10461000)]  
-`[TL;DR]` *Neural networks (NNs) for medical image segmentation are vulnerable to corrupted images and require sufficient labeled training data. To handle such issues, we propose to combine neural networks with statistical shape models (SSMs) and our method can automatically determine the contribution of NNs and SSMs during combination by leveraging proposed statistical methods.  Our approach can be attached to mainstream deep learning methods to improve the robustness and data efficiency.*
-
 - **Learning and Forgetting Unsafe Examples in Large Language Models**   
 **_Jiachen Zhao_**, Zhun Deng, David Madras, James Zou, Mengye Ren\
 Under review.  
@@ -35,6 +29,11 @@ Under review.
 [[pdf](https://arxiv.org/pdf/2311.08640.pdf)]  
 `[TL;DR]` *We study a challenging scenario where labeled data are too few to finetune a model and few-shot prompted LLMs also have suboptimal performance.  We find that a student model that has memorized sufficient teacher labels during knowledge distillation can outperform the teacher model on held-out data by correcting teacher's mistakes instead of repeating them.  We then propose Multistage Collaborative Knowledge Distillation (MCKD). On challenging biomedical parsing, 3-stage MCKD with 50 labeled examples matches the performance of supervised finetuning with 500 examples and outperforms the prompted LLM and vanilla KD by 7.5% and 3.7% parsing F1, respectively.*
 
+- **Adaptive Fusion of Deep Learning with Statistical Anatomical Knowledge for Robust Patella Segmentation from CT Images**\
+**_Jiachen Zhao_**, Tianshu Jiang, Yi Lin, Justin Chan, Ping-Keung Lewis Chan, Chunyi Wen, Hao Chen\
+Journal of Biomedical & Health Informatics.  
+[[code](https://github.com/andotalao24/PatellaSeg)] [[pdf](https://ieeexplore.ieee.org/abstract/document/10461000)]  
+`[TL;DR]` *Neural networks (NNs) for medical image segmentation are vulnerable to corrupted images and require sufficient labeled training data. To handle such issues, we propose to combine neural networks with statistical shape models (SSMs) and our method can automatically determine the contribution of NNs and SSMs during combination by leveraging proposed statistical methods.  Our approach can be attached to mainstream deep learning methods to improve the robustness and data efficiency.*
 
 ### 2023  
 - **SELF-EXPLAIN: Teaching Large Language Models to Reason Complex Questions by Themselves**  
@@ -56,7 +55,7 @@ the student model can generate better predictions than teacher labels used to tr
 - **In-Context Exemplars as Clues to Retrieving from Large Associative Memory**\
 **_Jiachen Zhao_**\
 Neural Conversational AI @ `ICML 23`. Associative Memory & Hopfield Networks @ `NIPS 23`.  
-[[code](https://github.com/andotalao24/ICL-as-retrieval-from-associative-memory)] [[pdf](https://arxiv.org/pdf/2311.03498.pdf)]     
+ [[pdf](https://arxiv.org/pdf/2311.03498.pdf)]     
 `[TL;DR]` *We reinterpret In-Context Learning (ICL) of LLMs as contextual retrieval from associative memory motivated by the fact that no gradients update occurs in ICL and
 analyze error bounds of retrieval errors. We relate ICL to humans' memory systems to show some phenomenon-level biological plausibility. We also discuss the implication of our theory to exemplar selection.*
 
