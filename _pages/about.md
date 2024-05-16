@@ -25,7 +25,7 @@ ICML 24.
 
 - **Multistage Collaborative Knowledge Distillation from a Large Language Model for Semi-Supervised Sequence Generation**\
 **_Jiachen Zhao_**, Wenlong Zhao\*,  Andrew Drozdov\*, Benjamin Rozonoyer, Md Arafat Sultan, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum\
-Under review.      
+ACL 24.      
 [[pdf](https://arxiv.org/pdf/2311.08640.pdf)]  
 <!--`[TL;DR]` *We study a challenging scenario where labeled data are too few to finetune a model and few-shot prompted LLMs also have suboptimal performance.  We find that a student model that has memorized sufficient teacher labels during knowledge distillation can outperform the teacher model on held-out data by correcting teacher's mistakes instead of repeating them.  We then propose Multistage Collaborative Knowledge Distillation (MCKD). On challenging biomedical parsing, 3-stage MCKD with 50 labeled examples matches the performance of supervised finetuning with 500 examples and outperforms the prompted LLM and vanilla KD by 7.5% and 3.7% parsing F1, respectively.*-->
 
