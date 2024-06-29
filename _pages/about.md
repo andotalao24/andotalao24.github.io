@@ -17,6 +17,11 @@ I am an incoming PhD student at Northeastern University, advised by Prof. [Weiya
 
 ## Publications  
 ### 2024  
+- **Large Language Models are In-context Teachers for Knowledge Reasoning**  
+**_Jiachen Zhao_**, Zonghai Yao, Zhichao Yang, Hong Yu  
+Preprint.  
+[[pdf](https://arxiv.org/pdf/2311.06985v2)]
+  
 - **Learning and Forgetting Unsafe Examples in Large Language Models**   
 **_Jiachen Zhao_**, Zhun Deng, David Madras, James Zou, Mengye Ren\
 ICML 24.  
@@ -38,9 +43,8 @@ Journal of Biomedical & Health Informatics.
 ### 2023  
 - **SELF-EXPLAIN: Teaching Large Language Models to Reason Complex Questions by Themselves**  
 **_Jiachen Zhao_**, Zonghai Yao, Zhichao Yang, Hong Yu  
-In preparation.  
 Workshop on robustness of zero/few-shot learning in foundation models @ `NIPS 23`.  
-[[pdf](https://arxiv.org/pdf/2311.06985.pdf)]  
+[[pdf](https://arxiv.org/pdf/2311.06985v1)]  
 <!--`[TL;DR]` *It remains unclear the principles to craft Chain-of-Thought examples for few-shot prompting. The style and expression of in-context exemplars can influence the prompting performance. Inspired by encoding specificity in humans' memory systems, we propose SELF-EXPLAIN to elicit LLMs' explanations of complex questions by themselves. Prompting with self-explanations through in-context learning can make LLMs more confident and more calibrated as well. Prompting with self-explanation can even outperform prompting with human-crafted CoT on reasoning tasks in both medical and general domains.*-->
 
 - **Student as an Inherent Denoiser of Noisy Teacher**\
