@@ -9,7 +9,7 @@ redirect_from:
 - /about.html
 
 ---
-I am an incoming PhD student at Northeastern University, advised by Prof. [Weiyan Shi](https://wyshi.github.io/).  I obtained my Master's degree in Computer Science at UMass Amherst where I was lucky to work with Prof. [Andrew McCallum](https://people.cs.umass.edu/~mccallum/) and Prof. [Hong Yu](https://www.cics.umass.edu/faculty/directory/hong_yu). I finished my undergraduate study in Computer Science at HKUST, where I was a research assistant at [SMART lab](https://hkustsmartlab.netlify.app/) working on medical image analysis with Professor [Hao Chen](https://cse.hkust.edu.hk/~jhc/) and an NLP research intern at [IDEA](https://www.idea.edu.cn/en/about-team.html).  
+I am a first year PhD student at Northeastern University, advised by Prof. [Weiyan Shi](https://wyshi.github.io/).  I obtained my Master's degree in Computer Science at UMass Amherst where I was lucky to work with Prof. [Andrew McCallum](https://people.cs.umass.edu/~mccallum/) and Prof. [Hong Yu](https://www.cics.umass.edu/faculty/directory/hong_yu). I finished my undergraduate study in Computer Science at HKUST, where I was a research assistant at [SMART lab](https://hkustsmartlab.netlify.app/) working on medical image analysis with Professor [Hao Chen](https://cse.hkust.edu.hk/~jhc/) and an NLP research intern at [IDEA](https://www.idea.edu.cn/en/about-team.html).  
 
 **Research Interests**. I am especially interested in label-efficient learning / weakly-supervised learning and improving the robustness and interpretability of neural networks. I am particularly enthusiastic about applying the implication to biology and medicine where labeled data are scarce and trustworthiness is valued. Correspondingly, I have worked on various tasks with diverse kinds of data involving texts, images and videos. I am currently working on large language models. 
 
@@ -19,7 +19,7 @@ I am an incoming PhD student at Northeastern University, advised by Prof. [Weiya
 ### 2024  
 - **Large Language Models are In-context Teachers for Knowledge Reasoning**  
 **_Jiachen Zhao_**, Zonghai Yao, Zhichao Yang, Hong Yu  
-Preprint.  
+EMNLP 24.  
 [[pdf](https://arxiv.org/pdf/2311.06985v2)]
   
 - **Learning and Forgetting Unsafe Examples in Large Language Models**   
