@@ -9,7 +9,9 @@ redirect_from:
 - /about.html
 
 ---
-I am a first-year PhD student at Northeastern University. I am advised by Prof. [Weiyan Shi](https://wyshi.github.io/) and working closely with Prof. [David Bau](https://baulab.info/).  I obtained my Master's degree in Computer Science at UMass Amherst where I was lucky to work with Prof. [Andrew McCallum](https://people.cs.umass.edu/~mccallum/) and Prof. [Hong Yu](https://www.cics.umass.edu/faculty/directory/hong_yu). I finished my undergraduate study in Computer Science at HKUST, where I was a research assistant at [SMART lab](https://hkustsmartlab.netlify.app/) working on medical image analysis with Professor [Hao Chen](https://cse.hkust.edu.hk/~jhc/) and an NLP research intern at [IDEA](https://www.idea.edu.cn/en/about-team.html).  
+Update: I am a scholar in the [MATS](https://www.matsprogram.org/) program this summer, working on reasoning at Prof. [Dawn Song](https://dawnsong.io/)'s Lab. 
+
+I am a first-year PhD student at Northeastern University. I am advised by Prof. [Weiyan Shi](https://wyshi.github.io/) and working closely with Prof. [David Bau](https://baulab.info/). I obtained my Master's degree in Computer Science at UMass Amherst where I was lucky to work with Prof. [Andrew McCallum](https://people.cs.umass.edu/~mccallum/) and Prof. [Hong Yu](https://www.cics.umass.edu/faculty/directory/hong_yu). I finished my undergraduate study in Computer Science at HKUST, where I was a research assistant at [SMART lab](https://hkustsmartlab.netlify.app/) working on medical image analysis with Professor [Hao Chen](https://cse.hkust.edu.hk/~jhc/) and an NLP research intern at [IDEA](https://www.idea.edu.cn/en/about-team.html).  
 
 **Research Interests**. I am especially interested in label-efficient learning / weakly-supervised learning and improving the robustness and interpretability of neural networks. I am particularly enthusiastic about applying the implication to biology and medicine where labeled data are scarce and trustworthiness is valued.  
 
