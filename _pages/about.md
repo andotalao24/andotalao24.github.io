@@ -20,6 +20,12 @@ I currently work on large language models, especially safety alignment and inter
 
 
 ## Publications  
+### 2025  
+- **LLMs Encode Harmfulness and Refusal Separately**  
+**_Jiachen Zhao_**, Jing Huang, Zhengxuan Wu, David Bau, Weiyan Shi  
+Preprint.  
+[[pdf](https://arxiv.org/abs/2507.11878)]  
+
 ### 2024  
 - **Large Language Models are In-context Teachers for Knowledge Reasoning**  
 **_Jiachen Zhao_**, Zonghai Yao, Zhichao Yang, Hong Yu  
