@@ -23,7 +23,7 @@ I currently work on large language models, especially safety alignment and inter
 ### 2025  
 - **LLMs Encode Harmfulness and Refusal Separately**  
 **_Jiachen Zhao_**, Jing Huang, Zhengxuan Wu, David Bau, Weiyan Shi  
-Neurips 2025.  
+[Neurips 2025.](https://neurips.cc/virtual/2025/poster/115056)  
 [[pdf](https://arxiv.org/abs/2507.11878)]  
 
 ### 2024  
