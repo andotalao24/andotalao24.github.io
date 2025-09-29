@@ -82,7 +82,7 @@ arXiv.
 
 
 ## Academic service  
-Reviewer for ICML, Neurips, CoNLL
+Reviewer for ICML, Neurips, CoNLL, AAAI, ICLR
 
 
 
