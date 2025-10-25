@@ -11,9 +11,9 @@ redirect_from:
 ---
 I am a PhD student at Northeastern University, advised by Prof. [Weiyan Shi](https://wyshi.github.io/). I was a scholar in the [MATS](https://www.matsprogram.org/) program, working on reasoning at Prof. [Dawn Song](https://dawnsong.io/)'s Lab. I obtained my Master's degree in Computer Science at UMass Amherst where I was lucky to be advised by Prof. [Andrew McCallum](https://people.cs.umass.edu/~mccallum/) and Prof. [Hong Yu](https://www.cics.umass.edu/faculty/directory/hong_yu). I finished my undergraduate study in Computer Science at HKUST, where I was a research assistant at [SMART lab](https://hkustsmartlab.netlify.app/) working on medical image analysis with Professor [Hao Chen](https://cse.hkust.edu.hk/~jhc/) and an NLP research intern at [IDEA](https://www.idea.edu.cn/en/about-team.html).  
 
-**Research Interests**. I am especially interested in label-efficient learning / weakly-supervised learning and improving the robustness and interpretability of neural networks. I am particularly enthusiastic about applying the implication to biology and medicine where labeled data are scarce and trustworthiness is valued.  
 
-I currently work on large language models, especially safety alignment and interpretation. 
+I currently work on large language models, especially alignment and interpretation. I am interested in mechanistic understanding of LLMs and improving their robustness and trustworthiness. 
+
 
 
 
