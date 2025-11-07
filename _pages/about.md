@@ -14,6 +14,8 @@ I am a PhD student at Northeastern University, advised by Prof. [Weiyan Shi](htt
 
 I currently work on large language models, especially alignment and interpretation. I am interested in mechanistic understanding of LLMs and improving their robustness and trustworthiness. 
 
+<mark>I am seeking a research internship for Summer 2026. Please feel free to contact me if you believe there is a potential fit</mark>.
+
 
 
 
