@@ -9,7 +9,7 @@ redirect_from:
 - /about.html
 
 ---
-I am a PhD student at Northeastern University, advised by Prof. [Weiyan Shi](https://wyshi.github.io/). I was a scholar in the [MATS](https://www.matsprogram.org/) program, working on reasoning at Prof. [Dawn Song](https://dawnsong.io/)'s Lab. I obtained my Master's degree in Computer Science at UMass Amherst where I was lucky to be advised by Prof. [Andrew McCallum](https://people.cs.umass.edu/~mccallum/) and Prof. [Hong Yu](https://www.cics.umass.edu/faculty/directory/hong_yu). I finished my undergraduate study in Computer Science at HKUST, where I was a research assistant at [SMART lab](https://hkustsmartlab.netlify.app/) working on medical image analysis with Professor [Hao Chen](https://cse.hkust.edu.hk/~jhc/) and an NLP research intern at [IDEA](https://www.idea.edu.cn/en/about-team.html).  
+I am a PhD student at Northeastern University, advised by Prof. [Weiyan Shi](https://wyshi.github.io/). I was a scholar in the [MATS](https://www.matsprogram.org/) program, working on reasoning at Prof. [Dawn Song](https://dawnsong.io/)'s Lab. I obtained my Master's degree in Computer Science at UMass Amherst where I was lucky to be advised by Prof. [Andrew McCallum](https://people.cs.umass.edu/~mccallum/) and Prof. [Hong Yu](https://www.cics.umass.edu/faculty/directory/hong_yu). I finished my undergraduate study in Computer Science at HKUST.  
 
 
 I currently work on large language models, especially alignment and interpretation. I am interested in mechanistic understanding of LLMs and improving their robustness and trustworthiness. 
@@ -28,7 +28,7 @@ I currently work on large language models, especially alignment and interpretati
 
 - **LLMs Encode Harmfulness and Refusal Separately**  
 **_Jiachen Zhao_**, Jing Huang, Zhengxuan Wu, David Bau, Weiyan Shi  
-[Neurips 2025.](https://neurips.cc/virtual/2025/poster/115056)  
+Neurips 2025.  
 [[pdf](https://arxiv.org/abs/2507.11878)]  
 
 ### 2024  
