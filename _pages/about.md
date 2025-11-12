@@ -21,11 +21,6 @@ I currently work on large language models, especially alignment and interpretati
 
 ## Publications  
 ### 2025  
-- **Can Aha Moments be Fake? Identifying True and Decorative Thinking Steps in CoT**  
-**_Jiachen Zhao_** *, Yiyou sun *, Weiyan Shi, Dawn Song  
-  Preprint.  
-  [[pdf](https://github.com/andotalao24/Identify_true_decorative_thinking/blob/main/identifying%20true%20and%20decorative%20thinking%20in%20CoT.pdf)]  
-
 - **LLMs Encode Harmfulness and Refusal Separately**  
 **_Jiachen Zhao_**, Jing Huang, Zhengxuan Wu, David Bau, Weiyan Shi  
 Neurips 2025.  
