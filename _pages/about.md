@@ -11,11 +11,17 @@ redirect_from:
 ---
 I am a PhD student at Northeastern University, advised by Prof. [Weiyan Shi](https://wyshi.github.io/). I was a scholar in the [MATS](https://www.matsprogram.org/) program, working on reasoning at Prof. [Dawn Song](https://dawnsong.io/)'s Lab. I obtained my Master's degree in Computer Science at UMass Amherst where I was lucky to be advised by Prof. [Andrew McCallum](https://people.cs.umass.edu/~mccallum/) and Prof. [Hong Yu](https://www.cics.umass.edu/faculty/directory/hong_yu). I finished my undergraduate study in Computer Science at HKUST.
 
-I am generally interested in understanding the mechanisms of AI models to improve and control them. I am currently working on narrow finetuning and the safety of LLMs.
+I am generally interested in understanding the mechanisms of AI models to improve and control them. I am currently working on emergent behaviors in downstream finetuning and understanding CoT reasoning in LLMs.
 
 
 
 ## Publications  
+### 2026  
+- **Can Aha Moments Be Fake? Identifying True and Decorative Thinking Steps in Chain-of-Thought**  
+**_Jiachen Zhao_**\*, Yiyou Sun\*, Weiyan Shi, Dawn Song  
+Preprint.  
+[[pdf](https://arxiv.org/abs/2510.24941)]  
+
 ### 2025  
 - **LLMs Encode Harmfulness and Refusal Separately**  
 **_Jiachen Zhao_**, Jing Huang, Zhengxuan Wu, David Bau, Weiyan Shi  
