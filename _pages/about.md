@@ -63,9 +63,7 @@ Workshop on robustness of zero/few-shot learning in foundation models @ `NIPS 23
 **_Jiachen Zhao_**\
 3rd Workshop on Efficient Natural Language and Speech Processing @ `NIPS 23`.   
 [[pdf](https://andotalao24.github.io/files/nips23__efficient_nlp_workshop.pdf)]   
-<!--`[TL;DR]` *We provide new insights into the learning process of knowledge distillation (KD).
-We unveil the inherent denoising effect in KD that at the early stage of KD,
-the student model can generate better predictions than teacher labels used to train it.  We identify that this phenomenon can be attributed to the discrepancies in learning teacher labels. Motivated by our findings, we propose peer-advised KD to optimize vanilla KD.  While this work focuses on parsing, a more comprehensive version covering different tasks is in preparation.*  -->
+`[TL;DR]` *We find model converges to clean labels faster during training. We thus leverage the early checkpoint to denoise teacher labels.*  
 
 
 - **In-Context Exemplars as Clues to Retrieving from Large Associative Memory**\
