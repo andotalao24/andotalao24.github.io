@@ -32,7 +32,8 @@ Neurips 2025.
 - **Large Language Models are In-context Teachers for Knowledge Reasoning**  
 **_Jiachen Zhao_**, Zonghai Yao, Zhichao Yang, Hong Yu  
 EMNLP 24 Findings.  
-[[pdf](https://arxiv.org/pdf/2311.06985v2)]
+[[pdf](https://arxiv.org/pdf/2311.06985v2)]  
+`[TL;DR]` *We propose encoding specificity hypothesis inspired by humans' memory retrieval to understand prompting LLM. We consider that effective prompts should match LLMs' own training distribution.*
   
 - **Learning and Forgetting Unsafe Examples in Large Language Models**   
 **_Jiachen Zhao_**, Zhun Deng, David Madras, James Zou, Mengye Ren\
@@ -63,7 +64,7 @@ Workshop on robustness of zero/few-shot learning in foundation models @ `NIPS 23
 **_Jiachen Zhao_**\
 3rd Workshop on Efficient Natural Language and Speech Processing @ `NIPS 23`.   
 [[pdf](https://andotalao24.github.io/files/nips23__efficient_nlp_workshop.pdf)]   
-`[TL;DR]` *We find model converges to clean labels faster during training. We thus leverage the early checkpoint to denoise teacher labels.*  
+`[TL;DR]` *We find model converges to clean labels faster during knowledge distillation. We thus leverage the early checkpoint to denoise teacher labels.*  
 
 
 - **In-Context Exemplars as Clues to Retrieving from Large Associative Memory**\
