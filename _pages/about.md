@@ -20,7 +20,7 @@ I am generally interested in understanding the mechanisms of AI models to improv
 - **The Piggyback Hypothesis: Explaining and Mitigating Emergent Misalignment**  
 **_Jiachen Zhao_**, Zhengxuan Wu, Aryaman Arora, Yiyou Sun, David Bau, Weiyan Shi  
   Preprint.  
-[[pdf](https://github.com/CHATS-lab/Token-Regularized-Fine-Tuning/blob/main/piggyback_EM.pdf)]
+[[pdf](https://andotalao24.github.io/files/piggyback-hypothesis-emergent-misalignment.pdf)]
 
 
 - **Can Aha Moments Be Fake? Identifying True and Decorative Thinking Steps in Chain-of-Thought**  
@@ -69,7 +69,7 @@ Workshop on robustness of zero/few-shot learning in foundation models @ `NIPS 23
 - **Student as an Inherent Denoiser of Noisy Teacher**\
 **_Jiachen Zhao_**\
 3rd Workshop on Efficient Natural Language and Speech Processing @ `NIPS 23`.   
-[[pdf](https://andotalao24.github.io/files/nips23__efficient_nlp_workshop.pdf)]   
+[[pdf](https://arxiv.org/abs/2312.10185)]   
 `[TL;DR]` *We find model converges to clean labels faster during knowledge distillation. We thus leverage the early checkpoint to denoise teacher labels.*  
 
 
