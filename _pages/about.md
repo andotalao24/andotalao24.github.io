@@ -17,7 +17,7 @@ I am generally interested in understanding the mechanisms of AI models to improv
 
 ## Publications  
 ### 2026  
-- **The Piggyback Hypothesis: explaining and mitigating emergent misalignment**  
+- **The Piggyback Hypothesis: Explaining and Mitigating Emergent M  isalignment**  
 **_Jiachen Zhao_**, Zhengxuan Wu, Aryaman Arora, Yiyou Sun, David Bau, Weiyan Shi  
   Preprint.  
 [[pdf](https://github.com/CHATS-lab/Token-Regularized-Fine-Tuning/blob/main/piggyback_EM.pdf)]
