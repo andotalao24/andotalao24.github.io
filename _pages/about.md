@@ -25,7 +25,7 @@ I am generally interested in understanding the mechanisms of AI models to improv
 
 - **Can Aha Moments Be Fake? Identifying True and Decorative Thinking Steps in Chain-of-Thought**  
 **_Jiachen Zhao_**\*, Yiyou Sun\*, Weiyan Shi, Dawn Song  
-Preprint.  
+COLM Efficient Reasoning workshop.  Covered by [Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731).  
 [[pdf](https://arxiv.org/abs/2510.24941)]  
 
 ### 2025  
