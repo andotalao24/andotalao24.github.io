@@ -26,7 +26,7 @@ Neurips 2026.
 - **Can Aha Moments Be Fake? Identifying True and Decorative Thinking Steps in Chain-of-Thought**  
 **_Jiachen Zhao_**\*, Yiyou Sun\*, Weiyan Shi, Dawn Song  
 EMNLP 26 Findings.  Covered by [Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731).  
-[[pdf](https://arxiv.org/abs/2510.24941)]  
+[[pdf](https://arxiv.org/abs/2510.24941)]; Added to the [cookbook](https://tinker-docs.thinkingmachines.ai/cookbook/recipes/true-thinking-score/) in Tinker  
 
 ### 2025  
 - **LLMs Encode Harmfulness and Refusal Separately**  
