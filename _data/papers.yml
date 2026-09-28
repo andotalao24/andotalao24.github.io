@@ -1,0 +1,111 @@
+# Publications shown on the homepage, grouped by `year` (keep newest first).
+#   venue:        short label shown as a tag (e.g. "NeurIPS 2026")
+#   venue_detail: optional longer description shown after the authors
+#   authors:      "Jiachen Zhao" is bolded automatically; use * for equal contribution
+#   links:        list of {label, url}; the first one is treated as the main link
+#   note:         optional one-liner (Markdown) for press, awards, etc.
+#   tldr:         optional TL;DR (Markdown)
+
+- year: 2026
+  title: "The Piggyback Hypothesis of Generalization: Explaining and Mitigating Emergent Misalignment"
+  authors: "Jiachen Zhao, Zhengxuan Wu, Aryaman Arora, Yiyou Sun, David Bau, Weiyan Shi"
+  venue: NeurIPS 2026
+  links:
+    - label: PDF
+      url: https://andotalao24.github.io/files/piggyback-hypothesis-emergent-misalignment.pdf
+
+- year: 2026
+  title: "Can Aha Moments Be Fake? Identifying True and Decorative Thinking Steps in Chain-of-Thought"
+  authors: "Jiachen Zhao*, Yiyou Sun*, Weiyan Shi, Dawn Song"
+  venue: EMNLP 2026 Findings
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2510.24941
+    - label: Quanta Magazine
+      url: https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731
+    - label: Tinker cookbook
+      url: https://tinker-docs.thinkingmachines.ai/cookbook/recipes/true-thinking-score/
+  note: "Covered by Quanta Magazine; added to the Tinker cookbook."
+
+- year: 2025
+  title: "LLMs Encode Harmfulness and Refusal Separately"
+  authors: "Jiachen Zhao, Jing Huang, Zhengxuan Wu, David Bau, Weiyan Shi"
+  venue: NeurIPS 2025
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2507.11878
+
+- year: 2024
+  title: "Large Language Models are In-context Teachers for Knowledge Reasoning"
+  authors: "Jiachen Zhao, Zonghai Yao, Zhichao Yang, Hong Yu"
+  venue: EMNLP 2024 Findings
+  links:
+    - label: PDF
+      url: https://arxiv.org/pdf/2311.06985v2
+  tldr: "We propose the encoding specificity hypothesis, inspired by humans' memory retrieval, to understand prompting LLMs. Effective prompts should match LLMs' own training distribution."
+
+- year: 2024
+  title: "Learning and Forgetting Unsafe Examples in Large Language Models"
+  authors: "Jiachen Zhao, Zhun Deng, David Madras, James Zou, Mengye Ren"
+  venue: ICML 2024
+  links:
+    - label: PDF
+      url: https://arxiv.org/pdf/2312.12736.pdf
+
+- year: 2024
+  title: "Multistage Collaborative Knowledge Distillation from a Large Language Model for Semi-Supervised Sequence Generation"
+  authors: "Jiachen Zhao, Wenlong Zhao*, Andrew Drozdov*, Benjamin Rozonoyer, Md Arafat Sultan, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum"
+  venue: ACL 2024
+  links:
+    - label: PDF
+      url: https://arxiv.org/pdf/2311.08640.pdf
+  # tldr: "We study a challenging scenario where labeled data are too few to finetune a model and few-shot prompted LLMs also have suboptimal performance. We find that a student model that has memorized sufficient teacher labels during knowledge distillation can outperform the teacher model on held-out data by correcting teacher's mistakes instead of repeating them. We then propose Multistage Collaborative Knowledge Distillation (MCKD). On challenging biomedical parsing, 3-stage MCKD with 50 labeled examples matches the performance of supervised finetuning with 500 examples and outperforms the prompted LLM and vanilla KD by 7.5% and 3.7% parsing F1, respectively."
+
+- year: 2024
+  title: "Adaptive Fusion of Deep Learning with Statistical Anatomical Knowledge for Robust Patella Segmentation from CT Images"
+  authors: "Jiachen Zhao, Tianshu Jiang, Yi Lin, Justin Chan, Ping-Keung Lewis Chan, Chunyi Wen, Hao Chen"
+  venue: IEEE JBHI
+  venue_detail: "IEEE Journal of Biomedical and Health Informatics"
+  links:
+    - label: Paper
+      url: https://ieeexplore.ieee.org/abstract/document/10461000
+  # tldr: "Neural networks (NNs) for medical image segmentation are vulnerable to corrupted images and require sufficient labeled training data. To handle such issues, we propose to combine neural networks with statistical shape models (SSMs) and our method can automatically determine the contribution of NNs and SSMs during combination by leveraging proposed statistical methods. Our approach can be attached to mainstream deep learning methods to improve the robustness and data efficiency."
+
+- year: 2023
+  title: "SELF-EXPLAIN: Teaching Large Language Models to Reason Complex Questions by Themselves"
+  authors: "Jiachen Zhao, Zonghai Yao, Zhichao Yang, Hong Yu"
+  venue: NeurIPS 2023 Workshop
+  venue_detail: "Workshop on Robustness of Zero/Few-shot Learning in Foundation Models"
+  links:
+    - label: PDF
+      url: https://arxiv.org/pdf/2311.06985v1
+  # tldr: "It remains unclear the principles to craft Chain-of-Thought examples for few-shot prompting. The style and expression of in-context exemplars can influence the prompting performance. Inspired by encoding specificity in humans' memory systems, we propose SELF-EXPLAIN to elicit LLMs' explanations of complex questions by themselves. Prompting with self-explanations through in-context learning can make LLMs more confident and more calibrated as well. Prompting with self-explanation can even outperform prompting with human-crafted CoT on reasoning tasks in both medical and general domains."
+
+- year: 2023
+  title: "Student as an Inherent Denoiser of Noisy Teacher"
+  authors: "Jiachen Zhao"
+  venue: NeurIPS 2023 Workshop
+  venue_detail: "3rd Workshop on Efficient Natural Language and Speech Processing"
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2312.10185
+  tldr: "We find the model converges to clean labels faster during knowledge distillation, so we leverage early checkpoints to denoise teacher labels."
+
+- year: 2023
+  title: "In-Context Exemplars as Clues to Retrieving from Large Associative Memory"
+  authors: "Jiachen Zhao"
+  venue: ICML 2023 Workshop
+  venue_detail: "Neural Conversational AI @ ICML 2023 · Associative Memory & Hopfield Networks @ NeurIPS 2023"
+  links:
+    - label: PDF
+      url: https://arxiv.org/pdf/2311.03498.pdf
+  # tldr: "We reinterpret In-Context Learning (ICL) of LLMs as contextual retrieval from associative memory motivated by the fact that no gradients update occurs in ICL and analyze error bounds of retrieval errors. We relate ICL to humans' memory systems to show some phenomenon-level biological plausibility. We also discuss the implication of our theory to exemplar selection."
+
+- year: 2022
+  title: "Trigger-free Event Detection via Derangement Reading Comprehension"
+  authors: "Jiachen Zhao, Haiqin Yang"
+  venue: arXiv
+  links:
+    - label: PDF
+      url: https://arxiv.org/pdf/2208.09659.pdf
+  # tldr: "This work tries to improve the performance of event detection when human-labeled triggers are not available (the word in a sentence that is the most representative of the sentence and, thus very costly to annotate). We reformulate this event classification problem into a multiple-choice QA task to better leverage self-attention. We also propose a token derangement module to tackle the imbalanced learning issue. Our trigger-free method can reach SOTA performance and even outperform approaches relying on triggers."

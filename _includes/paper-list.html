@@ -1,0 +1,20 @@
+{%- assign me = include.me | default: "Jiachen Zhao" -%}
+{%- assign me_html = '<span class="paper__me">' | append: me | append: '</span>' -%}
+<div class="papers">
+{%- assign years = site.data.papers | group_by: "year" -%}
+{%- for year in years -%}
+<section class="papers__year"><h3 class="papers__year-label">{{ year.name }}</h3><ol class="papers__list">
+{%- for p in year.items -%}
+<li class="paper"><span class="paper__venue">{{ p.venue }}</span><div class="paper__body">
+{%- if p.links -%}<a class="paper__title" href="{{ p.links[0].url }}">{{ p.title }}</a>{%- else -%}<span class="paper__title">{{ p.title }}</span>{%- endif -%}
+<div class="paper__authors">{{ p.authors | replace: me, me_html }}</div>
+{%- if p.venue_detail -%}<div class="paper__detail">{{ p.venue_detail }}</div>{%- endif -%}
+{%- if p.note -%}<div class="paper__note">{{ p.note | markdownify | remove: '<p>' | remove: '</p>' | strip }}</div>{%- endif -%}
+<div class="paper__links">
+{%- for l in p.links -%}<a class="paper__link" href="{{ l.url }}">{{ l.label }}</a>{%- endfor -%}
+{%- if p.tldr -%}<details class="paper__tldr"><summary>TL;DR</summary><p>{{ p.tldr | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p></details>{%- endif -%}
+</div></div></li>
+{%- endfor -%}
+</ol></section>
+{%- endfor -%}
+</div>

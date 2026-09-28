@@ -1,0 +1,36 @@
+# News items shown on the homepage, newest first.
+# `date` is displayed as-is; `text` supports Markdown.
+# The first `news_visible` items (set in _pages/about.md) are shown; the rest fold under "Older news".
+
+- date: Sep 2026
+  text: "**The Piggyback Hypothesis of Generalization** was accepted to **NeurIPS 2026**."
+
+- date: Sep 2026
+  text: "Our True Thinking Score was added to the [Tinker cookbook](https://tinker-docs.thinkingmachines.ai/cookbook/recipes/true-thinking-score/) by Thinking Machines."
+
+- date: Aug 2026
+  text: "**Can Aha Moments Be Fake?** was accepted to **EMNLP 2026 Findings**."
+
+- date: Jul 2026
+  text: "[Quanta Magazine](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731) covered our work on true vs. decorative thinking steps in chain-of-thought."
+
+- date: Jun 2026
+  text: "New preprint: [The Piggyback Hypothesis](https://andotalao24.github.io/files/piggyback-hypothesis-emergent-misalignment.pdf), explaining and mitigating emergent misalignment."
+
+- date: Oct 2025
+  text: "New preprint: [Can Aha Moments Be Fake?](https://arxiv.org/abs/2510.24941) Identifying true and decorative thinking steps in CoT."
+
+- date: Sep 2025
+  text: "**LLMs Encode Harmfulness and Refusal Separately** was accepted to **NeurIPS 2025**."
+
+- date: Jul 2025
+  text: "Joined the [MATS](https://www.matsprogram.org/) program for the summer, working on reasoning with Prof. Dawn Song's lab."
+
+- date: Sep 2024
+  text: "Started my PhD at Northeastern University, advised by Prof. Weiyan Shi."
+
+- date: Sep 2024
+  text: "**LLMs are In-context Teachers for Knowledge Reasoning** was accepted to **EMNLP 2024 Findings**."
+
+- date: May 2024
+  text: "Two papers accepted: one at **ICML 2024**, one at **ACL 2024**."

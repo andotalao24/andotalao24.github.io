@@ -1,0 +1,13 @@
+{%- assign visible = include.visible | default: 6 -%}
+<ul class="news">
+{%- for item in site.data.news limit: visible -%}
+<li class="news__item"><time class="news__date">{{ item.date }}</time><span class="news__text">{{ item.text | markdownify | remove: '<p>' | remove: '</p>' | strip }}</span></li>
+{%- endfor -%}
+</ul>
+{%- if site.data.news.size > visible -%}
+<details class="news__older"><summary>Older news</summary><ul class="news">
+{%- for item in site.data.news offset: visible -%}
+<li class="news__item"><time class="news__date">{{ item.date }}</time><span class="news__text">{{ item.text | markdownify | remove: '<p>' | remove: '</p>' | strip }}</span></li>
+{%- endfor -%}
+</ul></details>
+{%- endif -%}
