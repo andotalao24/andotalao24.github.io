@@ -14,13 +14,13 @@ I am a PhD student at Northeastern University, advised by Prof. [Weiyan Shi](htt
 My goal is to understand the science of foundation models to control and improve them for trustworthy AI. I mainly use tools from interpretability, with a particular interest in the latent space of models.
 
 <ul class="research">
-<li><strong>Learning and Generalization:</strong> why models acquire unintended behaviors across contexts ({% include ref.html id="persona" %}); why narrow training generalizes broadly ({% include ref.html id="piggyback" %}); why students can outperform their teachers ({% include ref.html id="mckd" %}; {% include ref.html id="denoiser" %}).</li>
+<li><strong>Learning and Generalization in SFT/ RL:</strong> why models acquire unintended behaviors across contexts ({% include ref.html id="persona" %}); why narrow training generalizes broadly ({% include ref.html id="piggyback" %}); why students can outperform their teachers ({% include ref.html id="mckd" %}; {% include ref.html id="denoiser" %}).</li>
 <li><strong>Mechanisms of Alignment and Safety:</strong> the internal representations behind model behavior and how to intervene on them ({% include ref.html id="harm-refusal" %}; {% include ref.html id="piggyback" %}); how safety holds up under continual fine-tuning ({% include ref.html id="forgetting" %}).</li>
 <li><strong>Reasoning:</strong>  how faithful chain-of-thought is ({% include ref.html id="aha" %}); how models can improve their own reasoning({% include ref.html id="icl-teachers" %}).</li>
 <li><strong>In-Context Learning:</strong> how models learn from context ({% include ref.html id="icl-memory" %}); what makes prompts and demonstrations effective ({% include ref.html id="icl-teachers" %}).</li>
 </ul>
 
-Feel free to [email me](mailto:zhao.jiach@northeastern.edu) if you would like to collaborate.
+Feel free to [email me](mailto:zhao.jiach@northeastern.edu) if you would like to collaborate. 
 
 ## News
 
