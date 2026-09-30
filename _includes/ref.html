@@ -1,0 +1,1 @@
+{%- assign p = site.data.papers | where: "id", include.id | first -%}{%- assign v = p.venue_full | default: p.venue -%}<a class="ref" href="{{ p.links[0].url }}" data-venue="{{ v | escape }}" aria-label="{{ p.short | escape }} ({{ v | escape }})">{{ p.short }}</a>

@@ -11,7 +11,16 @@ redirect_from:
 ---
 I am a PhD student at Northeastern University, advised by Prof. [Weiyan Shi](https://wyshi.github.io/). I also work closely with Prof. [David Bau](https://baulab.info/). I was a scholar in the [MATS](https://www.matsprogram.org/) program, working on reasoning at Prof. [Dawn Song](https://dawnsong.io/)'s Lab. I obtained my Master's degree in Computer Science at UMass Amherst where I was lucky to be advised by Prof. [Andrew McCallum](https://people.cs.umass.edu/~mccallum/) and Prof. [Hong Yu](https://www.cics.umass.edu/faculty/directory/hong_yu). I finished my undergraduate study in Computer Science at HKUST.
 
-I am generally interested in understanding the mechanisms of AI models to improve and control them. I am currently working on <mark class="act act--3">post-training</mark>, especially on understanding and mitigating <mark class="act act--3">emergent behaviors</mark>. I am broadly interested in <mark class="act act--2">continual learning</mark>, <mark class="act act--2">reasoning</mark> and <mark class="act act--1">interp</mark>. Feel free to [email me](mailto:zhao.jiach@northeastern.edu) if you would like to collaborate.
+My ultimate goal is to understand the science of foundation models in order to control and mediate their behavior. My research spans four areas:
+
+<ol class="research">
+<li><strong>Learning and Generalization:</strong> why models acquire unintended behaviors across contexts ({% include ref.html id="persona" %}), why narrow training generalizes broadly ({% include ref.html id="piggyback" %}), and why students can outperform their teachers ({% include ref.html id="mckd" %}; {% include ref.html id="denoiser" %}).</li>
+<li><strong>Mechanisms of Alignment and Safety:</strong> the internal representations behind model behavior and how to intervene on them ({% include ref.html id="harm-refusal" %}; {% include ref.html id="piggyback" %}), and how safety holds up under continual fine-tuning ({% include ref.html id="forgetting" %}).</li>
+<li><strong>Reasoning:</strong> what makes chain-of-thought faithful ({% include ref.html id="aha" %}), and how models can improve their own reasoning ({% include ref.html id="icl-teachers" %}).</li>
+<li><strong>In-Context Learning:</strong> how models learn from context ({% include ref.html id="icl-memory" %}), and what makes prompts and demonstrations effective ({% include ref.html id="icl-teachers" %}).</li>
+</ol>
+
+Feel free to [email me](mailto:zhao.jiach@northeastern.edu) if you would like to collaborate.
 
 ## News
 

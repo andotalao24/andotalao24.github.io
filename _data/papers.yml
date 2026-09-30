@@ -1,5 +1,7 @@
 # Publications shown on the homepage, grouped by `year` (keep newest first).
+#   id / short:   optional; lets the intro cite a paper with {% include ref.html id="..." %}
 #   venue:        short label shown as a tag (e.g. "NeurIPS 2026")
+#   venue_full:   optional; full venue shown when hovering a citation (defaults to venue)
 #   venue_detail: optional longer description shown after the authors
 #   authors:      "Jiachen Zhao" is bolded automatically; use * for equal contribution
 #   links:        list of {label, url}; the first one is treated as the main link
@@ -8,6 +10,9 @@
 
 - year: 2026
   title: "The Persona Hierarchy Model for Contextual Generalization in LLMs"
+  id: persona
+  short: "Persona Hierarchy"
+  venue_full: "Preprint, 2026"
   authors: "Jiachen Zhao, Zhengxuan Wu, David Bau, Weiyan Shi"
   venue: Preprint
   links:
@@ -16,6 +21,8 @@
 
 - year: 2026
   title: "The Piggyback Hypothesis of Generalization: Explaining and Mitigating Emergent Misalignment"
+  id: piggyback
+  short: "Piggyback"
   authors: "Jiachen Zhao, Zhengxuan Wu, Aryaman Arora, Yiyou Sun, David Bau, Weiyan Shi"
   venue: NeurIPS 2026
   links:
@@ -24,6 +31,8 @@
 
 - year: 2026
   title: "Can Aha Moments Be Fake? Identifying True and Decorative Thinking Steps in Chain-of-Thought"
+  id: aha
+  short: "Aha Moments"
   authors: "Jiachen Zhao*, Yiyou Sun*, Weiyan Shi, Dawn Song"
   venue: EMNLP 2026 Findings
   links:
@@ -37,6 +46,8 @@
 
 - year: 2025
   title: "LLMs Encode Harmfulness and Refusal Separately"
+  id: harm-refusal
+  short: "Harmfulness & Refusal"
   authors: "Jiachen Zhao, Jing Huang, Zhengxuan Wu, David Bau, Weiyan Shi"
   venue: NeurIPS 2025
   links:
@@ -45,6 +56,8 @@
 
 - year: 2024
   title: "Large Language Models are In-context Teachers for Knowledge Reasoning"
+  id: icl-teachers
+  short: "In-Context Teachers"
   authors: "Jiachen Zhao, Zonghai Yao, Zhichao Yang, Hong Yu"
   venue: EMNLP 2024 Findings
   links:
@@ -54,6 +67,8 @@
 
 - year: 2024
   title: "Learning and Forgetting Unsafe Examples in Large Language Models"
+  id: forgetting
+  short: "Learning & Forgetting"
   authors: "Jiachen Zhao, Zhun Deng, David Madras, James Zou, Mengye Ren"
   venue: ICML 2024
   links:
@@ -62,6 +77,8 @@
 
 - year: 2024
   title: "Multistage Collaborative Knowledge Distillation from a Large Language Model for Semi-Supervised Sequence Generation"
+  id: mckd
+  short: "MCKD"
   authors: "Jiachen Zhao, Wenlong Zhao*, Andrew Drozdov*, Benjamin Rozonoyer, Md Arafat Sultan, Jay-Yoon Lee, Mohit Iyyer, Andrew McCallum"
   venue: ACL 2024
   links:
@@ -81,6 +98,9 @@
 
 - year: 2023
   title: "SELF-EXPLAIN: Teaching Large Language Models to Reason Complex Questions by Themselves"
+  id: self-explain
+  short: "SELF-EXPLAIN"
+  venue_full: "NeurIPS 2023 Workshop on Robustness of Few-shot and Zero-shot Learning in Foundation Models"
   authors: "Jiachen Zhao, Zonghai Yao, Zhichao Yang, Hong Yu"
   venue: NeurIPS 2023 Workshop
   venue_detail: "Workshop on Robustness of Zero/Few-shot Learning in Foundation Models"
@@ -91,6 +111,9 @@
 
 - year: 2023
   title: "Student as an Inherent Denoiser of Noisy Teacher"
+  id: denoiser
+  short: "Student as Denoiser"
+  venue_full: "NeurIPS 2023 Workshop on Efficient Natural Language and Speech Processing"
   authors: "Jiachen Zhao"
   venue: NeurIPS 2023 Workshop
   venue_detail: "3rd Workshop on Efficient Natural Language and Speech Processing"
@@ -101,6 +124,9 @@
 
 - year: 2023
   title: "In-Context Exemplars as Clues to Retrieving from Large Associative Memory"
+  id: icl-memory
+  short: "ICL as Associative Memory"
+  venue_full: "ICML 2023 Neural Conversational AI Workshop; NeurIPS 2023 Associative Memory & Hopfield Networks Workshop"
   authors: "Jiachen Zhao"
   venue: ICML 2023 Workshop
   venue_detail: "Neural Conversational AI @ ICML 2023 · Associative Memory & Hopfield Networks @ NeurIPS 2023"
