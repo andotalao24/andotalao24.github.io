@@ -3,7 +3,7 @@
 # The first `news_visible` items (set in _pages/about.md) are shown; the rest fold under "Older news".
 
 - date: Sep 2026
-  text: "Gave a talk at **Meta** on how chat-template tokens shape AI safety, covering [The Piggyback Hypothesis](https://arxiv.org/abs/2606.06667) and [LLMs Encode Harmfulness and Refusal Separately](https://arxiv.org/abs/2507.11878)."
+  text: "Gave a [talk](https://andotalao24.github.io/files/talk-meta-chat-template-tokens.pdf) at **Meta** on how chat-template tokens shape AI safety."
 
 - date: Sep 2026
   text: "**The Piggyback Hypothesis of Generalization** was accepted to **NeurIPS 2026**."
