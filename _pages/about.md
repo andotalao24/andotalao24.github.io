@@ -11,7 +11,7 @@ redirect_from:
 ---
 I am a PhD student at Northeastern University, advised by Prof. [Weiyan Shi](https://wyshi.github.io/). I also work closely with Prof. [David Bau](https://baulab.info/). I was a scholar in the [MATS](https://www.matsprogram.org/) program, working on reasoning at Prof. [Dawn Song](https://dawnsong.io/)'s Lab. I obtained my Master's degree in Computer Science at UMass Amherst where I was lucky to be advised by Prof. [Andrew McCallum](https://people.cs.umass.edu/~mccallum/) and Prof. [Hong Yu](https://www.cics.umass.edu/faculty/directory/hong_yu). I finished my undergraduate study in Computer Science at HKUST.
 
-My goal is to understand the science of foundation models in order to control and mediate them for trustworthy AI. 
+My goal is to understand the science of foundation models to control and improve them for trustworthy AI. I mainly use tools from interpretability, with a particular interest in the latent space of models.
 
 <ul class="research">
 <li><strong>Learning and Generalization:</strong> why models acquire unintended behaviors across contexts ({% include ref.html id="persona" %}); why narrow training generalizes broadly ({% include ref.html id="piggyback" %}); why students can outperform their teachers ({% include ref.html id="mckd" %}; {% include ref.html id="denoiser" %}).</li>
