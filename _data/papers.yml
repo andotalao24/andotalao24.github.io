@@ -9,15 +9,15 @@
 #   tldr:         optional TL;DR (Markdown)
 
 - year: 2026
-  title: "The Persona Hierarchy Model for Contextual Generalization in LLMs"
+  title: "The Persona Hierarchy Model: Understanding Contextual Generalization in Fine-Tuning LLMs"
   id: persona
   short: "Persona Hierarchy"
   venue_full: "Preprint, 2026"
   authors: "Jiachen Zhao, Zhengxuan Wu, David Bau, Weiyan Shi"
   venue: Preprint
   links:
-    - label: PDF
-      url: https://andotalao24.github.io/files/persona-hierarchy-model.pdf
+    - label: arXiv
+      url: https://arxiv.org/pdf/2610.09384
 
 - year: 2026
   title: "The Piggyback Hypothesis of Generalization: Explaining and Mitigating Emergent Misalignment"
